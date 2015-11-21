@@ -1,0 +1,1200 @@
+-------NMF Model--------
+1 hijack
+0.9347538 kuwait
+0.8210225 airway
+0.7688882 mashhad
+0.7210066 sabah
+0.6901237 747
+0.6689991 iran
+0.644819 al
+0.6387944 algiers
+0.56113 emir
+
+Kuwait_Airways_Flight_422
+1983_Kuwait_bombings
+Kuwait_Airways
+Kuwait_City
+History_of_Kuwait
+Abdulwahed_Al-Awadhi
+Nasser_Al-Sabah
+British_Airways_Flight_149
+Sabah_Al-Ahmad_Al-Jaber_Al-Sabah
+Salem_Al-Ali_Al-Sabah
+
+1, hijack kuwait airway mashhad sabah 747 iran al algiers emir,Kuwait_Airways_Flight_422,04/14/1988,6.827127000886379E13
+-------NMF Model--------
+1 earthquake
+0.9415924 armenia
+0.7021077 quake
+0.5417601 relief
+0.5185499 disaster
+0.4642086 leninakan
+0.4217914 moscow
+0.3952009 spitak
+0.3116919 dec
+0.3034371 aid
+
+1988_Armenian_earthquake
+Armenian_Soviet_Socialist_Republic
+Geology_of_Armenia
+Geography_of_Armenia
+2011_Van_earthquake
+Lord_Byron_School_(Gyumri)
+2001_Nisqually_earthquake
+921_earthquake
+April_2015_Nepal_earthquake
+May_2015_Nepal_earthquake
+
+2, earthquake armenia quake relief disaster leninakan moscow spitak dec aid,1988_Armenian_earthquake,12/11/1988,3.7325773304205376E12
+-------NMF Model--------
+1 eritrea
+0.9206954 mengistu
+0.8866439 mariam
+0.7440582 tigre
+0.6680051 longo
+0.6459817 relief
+0.6390068 meeting
+0.5560535 councilmen
+0.5498415 aug
+0.5337856 support
+
+Mengistu_Haile_Mariam
+Oromay
+Kagnew_Station
+Tiglachin_Monument
+Premiership_of_Meles_Zenawi
+People's_Democratic_Republic_of_Ethiopia
+Mengistu_Haile-Mariam
+Haile_Mariam_Mengistu
+Ethiopia–Russia_relations
+Ethiopia–Israel_relations
+
+3, eritrea mengistu mariam tigre longo relief meeting councilmen aug support,Mengistu_Haile_Mariam,04/21/1988,6.436671972599948E14
+-------NMF Model--------
+1 drought
+0.7451914 crop
+0.5990906 corn
+0.5844543 rain
+0.5822902 farmer
+0.5777861 dry
+0.4900293 weather
+0.4651637 soybean
+0.4498967 midwest
+0.3728298 barge
+
+2012–15_North_American_drought
+Climate_change_and_agriculture
+Effects_of_global_warming_on_human_health
+Drought_in_the_United_Kingdom
+Droughts_in_the_United_States
+Agriculture_in_Bolivia
+Climate_change_in_Saskatchewan
+Federation_Drought
+Agriculture_in_Paraguay
+AC_Hazlet_rye
+
+4, drought crop corn rain farmer dry weather soybean midwest barge,2012–15_North_American_drought,06/30/1988,7.402319038058488E13
+-------NMF Model--------
+1 khmer
+0.9935476 sihanouk
+0.9664624 norodom
+0.851787 meeting
+0.6656313 states
+0.6196767 shultz
+0.5844379 zain
+0.5555933 noorani
+0.5356806 aid
+0.5341629 support
+
+Norodom_Sihanouk
+Funcinpec_Party
+Khmer_Republic
+Norodom_Phurissara
+French_Protectorate_of_Cambodia
+Norodom_Yuvaneath
+Norodom_Sihamoni
+Cambodia–United_States_relations
+Son_Sann
+Coalition_Government_of_Democratic_Kampuchea
+
+5, khmer sihanouk norodom meeting states shultz zain noorani aid support,Norodom_Sihanouk,11/05/1988,2.2000197715645788E14
+-------NMF Model--------
+1 arafat
+0.9997396 plo
+0.9724689 yasser
+0.8746789 israel
+0.6471795 terrorism
+0.6027253 gaza
+0.5036175 resolution
+0.4603423 declaration
+0.4457952 territory
+0.4443616 shultz
+
+Palestine_Liberation_Organization
+History_of_the_Israeli–Palestinian_conflict
+Yasser_Arafat
+History_of_the_Arab–Israeli_conflict
+Palestinian_National_Authority
+Israeli–Palestinian_peace_process
+Palestinian_National_Covenant
+Palestinian_views_on_the_peace_process
+State_of_Palestine
+Oslo_I_Accord
+
+6, arafat plo yasser israel terrorism gaza resolution declaration territory shultz,Palestine_Liberation_Organization,04/15/1988,2.163900046375534E14
+-------NMF Model--------
+1 augusto
+0.9443796 pinochet
+0.8368643 allende
+0.6415703 hindu
+0.6336459 referendum
+0.6082942 sikh
+0.5080801 election
+0.5032909 siege
+0.4613622 radical
+0.4581629 voter
+
+Augusto_Pinochet
+Chilean_national_plebiscite,_1988
+Military_dictatorship_of_Chile_(1973–90)
+Death_of_Salvador_Allende
+1973_Chilean_coup_d'état
+Chilean_transition_to_democracy
+Indictment_and_arrest_of_Augusto_Pinochet
+Carlos_Altamirano
+Political_violence_in_Chile
+The_Judge_and_the_General
+
+7, augusto pinochet allende hindu referendum sikh election siege radical voter,Augusto_Pinochet,04/03/1988,1.898633192946629E14
+-------NMF Model--------
+1 noriega
+0.9841833 panama
+0.9383772 manuel
+0.8799418 antonio
+0.8050672 delvalle
+0.798257 arturo
+0.7329892 ere
+0.6765586 drug
+0.6025136 indict
+0.5388349 traffick
+
+Manuel_Noriega
+Eric_Arturo_Delvalle
+Illegal_drug_trade_in_Panama
+United_States_invasion_of_Panama
+Oliver_North
+Drug_lord
+Manuel_Solís_Palma
+Max_Mermelstein
+Panama
+Moisés_Giroldi
+
+8, noriega panama manuel antonio delvalle arturo ere drug indict traffick,Manuel_Noriega,03/01/1988,2.3709130533968162E14
+-------NMF Model--------
+1 yellowstone
+0.891648 forest
+0.8538275 park
+0.836223 acre
+0.7213795 blaze
+0.7153224 blazes
+0.7001982 montana
+0.6925954 flame
+0.6915314 char
+0.6582919 evacuate
+
+Yellowstone_fires_of_1988
+2011_Texas_wildfires
+2012_Colorado_wildfires
+Rim_Fire
+History_of_wildfire_suppression_in_the_United_States
+Wildfire
+Yellowstone_National_Park
+Trails_of_Yellowstone_National_Park
+Black_Forest_Fire
+Mount_Carmel_forest_fire_(2010)
+
+9, yellowstone forest park acre blaze blazes montana flame char evacuate,Yellowstone_fires_of_1988,09/05/1988,4.221386780191537E13
+-------NMF Model--------
+1 salina
+0.9879976 gortari
+0.7209512 election
+0.6388328 clouthier
+0.5713643 candidate
+0.5678971 michoacan
+0.4664131 manuel
+0.4625921 elect
+0.451411 voter
+0.3424963 poll
+
+History_of_Roman_Catholicism_in_Mexico
+Carlos_Salinas_de_Gortari
+Raúl_Salinas_de_Gortari
+Alberto_Anaya
+Salinas_de_Gortari
+Enrique_Márquez_Jaramillo
+Carlos_salinas_de_gortari
+Salinas_de_Gortari,_Carlos
+Raul_Salinas_de_Gortari
+Enrique_Eduardo_Guillermo_Salinas_de_Gortari
+
+10, salina gortari election clouthier candidate michoacan manuel elect voter poll,History_of_Roman_Catholicism_in_Mexico,07/09/1988,2.6157433547806256E14
+-------NMF Model--------
+1 march
+0.8433273 1986
+0.7236985 meeting
+0.6903266 urge
+0.6833887 april
+0.6822791 26
+0.6669751 june
+0.6638946 february
+0.6580519 states
+0.6565637 conference
+
+2015_in_aviation
+List_of_minor_planets/3801–3900
+List_of_people_declared_venerable_by_Pope_John_Paul_II
+Iraq_disarmament_timeline_1990–2003
+List_of_minor_planets/11001–11100
+List_of_minor_planets/4101–4200
+List_of_minor_planets/6301–6400
+2014_in_aviation
+List_of_minor_planets/3501–3600
+John_Frewen_(divine)
+
+11, march 1986 meeting urge april 26 june february states conference,2015_in_aviation,04/16/1988,2.847923393708399E14
+-------NMF Model--------
+1 1986
+0.8602806 states
+0.7766938 april
+0.7272825 summit
+0.7197533 aug
+0.7044936 bill
+0.6986032 oct
+0.6952245 june
+0.6806024 march
+0.5814089 sept
+
+United_States_men's_national_soccer_team_results_(1980–89)
+The_Prozacs_(band)
+United_States_men's_national_soccer_team_results_(1990–99)
+List_of_USAF_Reconnaissance_wings_assigned_to_Strategic_Air_Command
+The_Nancy_Drew_Files
+Creation_Entertainment
+John_Navone
+Ahmed_Aboki_Abdullahi
+Despero
+Don_Heck
+
+12, 1986 states april summit aug bill oct june march sept,United_States_men's_national_soccer_team_results_(1980–89),04/26/1988,4.113394038848426E14
+-------NMF Model--------
+1 merkle
+0.9512444 indict
+0.9432747 lehder
+0.927549 drug
+0.8845374 jury
+0.8473413 trial
+0.7636082 riva
+0.7296289 cay
+0.5661696 states
+0.5439971 traffick
+
+Carlos_Lehder
+Norman's_Cay
+Jorge_Luis_Ochoa_Vásquez
+Lynden_Pindling
+Drug_barons_of_Colombia
+Jack_Carlton_Reed
+Max_Mermelstein
+Illegal_drug_trade_in_the_Bahamas
+Illegal_drug_trade_in_Colombia
+Carlos_Lehder_Rivas
+
+13, merkle indict lehder drug jury trial riva cay states traffick,Carlos_Lehder,10/14/1988,1.8821115584414347E14
+-------NMF Model--------
+1 hurricane
+0.8560708 flood
+0.8347935 gilbert
+0.7041898 water
+0.6078428 evacuate
+0.6021203 rains
+0.5437031 rain
+0.5010574 weather
+0.4809868 drown
+0.4693206 longitude
+
+Hurricane_Gilbert
+Hurricane_Floyd
+Effects_of_Hurricane_Jeanne_in_the_Mid-Atlantic_region
+1988_Atlantic_hurricane_season
+Tropical_Storm_Lee_(2011)
+Hurricane_Irene
+Hurricane_Eloise
+Hurricane_Hazel
+Floods_in_the_United_States:_1901–2000
+Hurricane_Bertha_(1996)
+
+14, hurricane flood gilbert water evacuate rains rain weather drown longitude,Hurricane_Gilbert,09/15/1988,5.415743582756492E13
+-------NMF Model--------
+1 quayle
+0.9721879 bentsen
+0.9654851 dan
+0.9325281 mate
+0.9141253 lloyd
+0.7451793 ticket
+0.7289739 indiana
+0.6493667 nominee
+0.5778351 debate
+0.3891293 nomination
+
+Dan_Quayle
+Lloyd_Bentsen
+Senator,_you're_no_Jack_Kennedy
+United_States_presidential_election,_1988
+United_States_vice-presidential_debate,_1988
+Michael_Dukakis
+Omaha_Civic_Auditorium
+Democratic_Party_presidential_primaries,_1988
+United_States_presidential_election_debates
+Paul_Eggers
+
+15, quayle bentsen dan mate lloyd ticket indiana nominee debate nomination,Dan_Quayle,08/20/1988,4.543653945669518E13
+-------NMF Model--------
+1 maung
+0.9980216 rangoon
+0.9676562 burma
+0.9580731 ne
+0.9512508 sein
+0.9413493 lwin
+0.7639116 aung
+0.7082755 1962
+0.7023578 gyi
+0.6584993 multiparty
+
+8888_Uprising
+Communist_Party_of_Burma
+History_of_Myanmar
+Myanmar
+Burma_Socialist_Programme_Party
+Ludu_U_Hla
+Panglong_Conference
+Kyaw_Zaw
+Bohmu_Aung
+Ne_Win
+
+17, maung rangoon burma ne sein lwin aung 1962 gyi multiparty,8888_Uprising,09/17/1988,1.5568185487715988E13
+-------NMF Model--------
+1 scotland
+0.6452265 lockerbie
+0.6438108 747
+0.4606054 terrorist
+0.4587686 dec
+0.3885544 christmas
+0.3289165 disaster
+0.3002543 259
+0.2573908 states
+0.2469399 helsinki
+
+Pan_Am_Flight_103
+Pan_Am_Flight_103_conspiracy_theories
+Lockerbie
+Dumfries_and_Galloway_Constabulary
+Aviation_accidents_and_incidents
+Abdelbaset_al-Megrahi
+Go,_Stewie,_Go!
+Robert_Black_(lawyer)
+Bruntingthorpe_Aerodrome
+Scotland_national_men's_lacrosse_team
+
+16, scotland lockerbie 747 terrorist dec christmas disaster 259 states helsinki,Pan_Am_Flight_103,12/23/1988,8.084751421520531E11
+-------NMF Model--------
+1 mecham
+0.9640008 impeach
+0.7839966 trial
+0.7496699 conceal
+0.6955334 misuse
+0.6431208 dealership
+0.5607381 jury
+0.5360448 april
+0.5015135 election
+0.5009212 milstead
+
+Evan_Mecham
+Rose_Mofford
+Horizon_(KAET_TV_program)
+Andrew_D._Hurwitz
+Thomas_Porteous
+Impeachment_and_acquittal_of_Bill_Clinton
+United_States_House_Judiciary_Task_Force_on_Judicial_Impeachment
+Jencks_v._United_States
+Trent_Franks
+Marc_Dann
+
+19, mecham impeach trial conceal misuse dealership jury april election milstead,Evan_Mecham,03/16/1988,9.663567450630584E13
+-------NMF Model--------
+1 yitzhak
+0.9579573 shamir
+0.9479435 israel
+0.8978461 gaza
+0.5153595 territory
+0.4731049 election
+0.4342273 firebomb
+0.419318 orthodox
+0.4126724 judaism
+0.4051604 clash
+
+Madrid_Conference_of_1991
+Ovadia_Yosef
+Likud
+Yitzhak_Shamir
+List_of_Prime_Ministers_of_Israel
+Shimon_Peres
+Yair_Shamir
+Dan_Meridor
+Israeli_legislative_election,_1988
+Aryeh_Mekel
+
+18, yitzhak shamir israel gaza territory election firebomb orthodox judaism clash,Madrid_Conference_of_1991,11/17/1988,5.404040897763915E14
+-------NMF Model--------
+1 claude
+0.9146843 leslie
+0.9127815 tonton
+0.7907196 macoute
+0.6588041 bertrand
+0.6378967 1986
+0.5478047 franck
+0.5165386 romain
+0.5047696 february
+0.4889195 election
+
+Roger_Lafontant
+Tonton_Macoute
+St._Jean_Bosco_massacre
+Human_rights_in_Haiti
+Tontons_Macoutes
+Tontons_Macoute
+Tontons_macoute
+Tonton_Macoutes
+Sexual_violence_in_Haiti
+Jean-Bertrand_Aristide
+
+21, claude leslie tonton macoute bertrand 1986 franck romain february election,Roger_Lafontant,03/05/1988,4.565831115803929E14
+-------NMF Model--------
+1 iran
+0.8880167 290
+0.8590734 navy
+0.8534839 vincenne
+0.726391 airliner
+0.7165657 airbus
+0.6760238 warship
+0.6227078 missile
+0.5804335 fighter
+0.5222922 frigate
+
+Iran_Air_Flight_655
+William_C._Rogers_III
+Operation_Praying_Mantis
+USS_Vincennes_(CG-49)
+USS_Wainwright_(CG-28)
+United_States_support_for_Iraq_during_the_Iran–Iraq_war
+Iran–Iraq_War
+Carrier_Strike_Group_Nine
+Ticonderoga-class_cruiser
+Iran–United_States_relations
+
+20, iran 290 navy vincenne airliner airbus warship missile fighter frigate,Iran_Air_Flight_655,07/07/1988,5.432839645123996E13
+-------NMF Model--------
+1 jackson
+0.9716583 jesse
+0.6352537 candidate
+0.6093942 primary
+0.5907918 massachusetts
+0.4847744 nomination
+0.464484 delegate
+0.3601275 support
+0.3582773 poll
+0.3518359 voter
+
+Jesse_Jackson
+African-American_candidates_for_President_of_the_United_States
+Jesse_Jackson,_Jr.
+Democratic_Party_presidential_primaries,_2000
+Jesse_Jackson_presidential_campaign,_1988
+Democratic_Party_presidential_primaries,_2004
+United_States_presidential_election,_1988
+Jesse_Jackson_presidential_campaign,_1984
+Illinois_Senate_elections_of_Barack_Obama
+Sandi_Jackson
+
+23, jackson jesse candidate primary massachusetts nomination delegate support poll voter,Jesse_Jackson,04/02/1988,5.268016903262916E13
+-------NMF Model--------
+1 chirac
+0.9198736 jacque
+0.74703 france
+0.6596542 melanesian
+0.6053077 caledonia
+0.5509656 ouvea
+0.5346934 election
+0.5283643 kanak
+0.5048042 gendarme
+0.4591837 pon
+
+Kanak_people
+The_Rally–UMP
+France–Vanuatu_relations
+Jacques_Chirac's_second_term_as_President_of_France
+Musée_du_Président_Jacques_Chirac
+Anh_Dao_Traxel
+Dans_la_peau_de_Jacques_Chirac
+French_presidential_election,_1995
+Corruption_scandals_in_the_Paris_region
+Jean-Michel_Goudard
+
+22, chirac jacque france melanesian caledonia ouvea election kanak gendarme pon,Kanak_people,05/03/1988,1.487610828712861E14
+-------NMF Model--------
+1 poll
+0.907304 election
+0.8875666 voter
+0.7891865 candidate
+0.6643023 quayle
+0.6171151 debate
+0.6066398 dan
+0.5859685 ads
+0.5447718 negative
+0.5390301 massachusetts
+
+United_States_presidential_election,_1988
+Senator,_you're_no_Jack_Kennedy
+Dan_Quayle
+Ross_Perot_presidential_campaign,_1992
+United_States_presidential_election,_1992
+United_States_presidential_election,_2000
+United_States_presidential_election_debates
+Arthur_J._Finkelstein
+Michael_Dukakis
+Maine_gubernatorial_election,_1970
+
+25, poll election voter candidate quayle debate dan ads negative massachusetts,United_States_presidential_election,_1988,10/12/1988,1.8384925809671597E14
+-------NMF Model--------
+1 trial
+0.8993809 jury
+0.5906751 1986
+0.5045266 june
+0.4977698 snow
+0.4482161 lyakhov
+0.4473756 support
+0.4445238 mohmand
+0.4425647 hortense
+0.4349478 gabel
+
+Hortense_Gabel
+Summary_jury_trial
+Juries_in_the_United_States
+Catherine_Mandeville_Snow
+Bench_trial
+Juries_in_England_and_Wales
+Famous_Jury_Trials_(radio_program)
+Ludwig_v._Massachusetts
+Virtual_jury_research
+Stella_Nickell
+
+24, trial jury 1986 june snow lyakhov support mohmand hortense gabel,Hortense_Gabel,05/11/1988,2.2315778458173772E15
+-------NMF Model--------
+1 whale
+0.8744865 eskimo
+0.7017853 prudhoe
+0.6713494 water
+0.6138313 icebreake
+0.582642 barge
+0.5617453 ruby
+0.5611094 iditarod
+0.5528678 winner
+0.5298574 399
+
+Iditarod_Trail
+Yttygran_Island
+USCGC_Northwind_(WAGB-282)
+Siberian_Yupik_people
+Barrow,_Alaska
+ATL_2701
+Inupiat_Heritage_Center
+Nalukataq
+Blond_Eskimos
+Kuujjuarapik
+
+27, whale eskimo prudhoe water icebreake barge ruby iditarod winner 399,Iditarod_Trail,10/23/1988,7.873857385829846E14
+-------NMF Model--------
+1 nicaragua
+0.9135969 contra
+0.8779232 sandinista
+0.8578852 azcona
+0.8516881 rebel
+0.798351 incursion
+0.7042504 82nd
+0.6709706 region
+0.6338032 airborne
+0.61981 palmerola
+
+Operation_Golden_Pheasant
+History_of_Honduras_(1982–present)
+Nicaragua_v._United_States
+History_of_Nicaragua
+Contras
+Enrique_Bermúdez
+Nicaragua
+CIA_activities_in_Nicaragua
+History_of_Nicaragua_(1979–90)
+Boland_Amendment
+
+26, nicaragua contra sandinista azcona rebel incursion 82nd region airborne palmerola,Operation_Golden_Pheasant,03/20/1988,3.7930125529294094E14
+-------NMF Model--------
+1 grammy
+0.707169 mcferrin
+0.6494623 jackson
+0.5771454 winner
+0.5507134 al
+0.5487588 watley
+0.4995565 emperor
+0.4765534 howard
+0.4618157 richard
+0.4366363 bob
+
+Bobby_McFerrin
+Rob_Wasserman
+Simple_Pleasures_(Bobby_McFerrin_album)
+Don't_Worry,_Be_Happy
+Russell_Ferrante
+Robert_McFerrin
+Blue_Bear_School_of_Music
+Jody_Watley
+Simply_Mad_About_the_Mouse:_A_Musical_Celebration_of_Imagination
+Ike_Sturm
+
+29, grammy mcferrin jackson winner al watley emperor howard richard bob,Bobby_McFerrin,03/22/1988,1.0506887823305234E15
+-------NMF Model--------
+1 discovery
+0.7119799 hauck
+0.6311366 atlantis
+0.5448642 hilmer
+0.5066247 covey
+0.475701 richard
+0.4597114 1986
+0.4490305 mullane
+0.4193508 weather
+0.4058187 lacrosse
+
+STS-26
+Frederick_Hauck
+STS-42
+Samir_K._Brahmachari
+David_C._Hilmers
+Coleophora_atlanti
+Carpochena_atlanti
+Richard_O._Covey
+Ultimate_Rush
+Tim_Hauck
+
+28, discovery hauck atlantis hilmer covey richard 1986 mullane weather lacrosse,STS-26,10/18/1988,2.334833011154917E14
+-------NMF Model--------
+1 summit
+0.9839477 moscow
+0.6308815 meeting
+0.5736649 missile
+0.4525202 intermediate
+0.4498637 ratify
+0.4418699 states
+0.3618461 medium
+0.337085 helsinki
+0.3314859 inf
+
+Moscow_Summit_(1988)
+Washington_Summit
+Intermediate-Range_Nuclear_Forces_Treaty
+Treaty_on_Conventional_Armed_Forces_in_Europe
+START_II
+Moscow_Summit_(1972)
+Strategic_Arms_Limitation_Talks
+Jack_F._Matlock,_Jr.
+Foreign_relations_of_Russia
+Russia–European_Union_relations
+
+31, summit moscow meeting missile intermediate ratify states medium helsinki inf,Moscow_Summit_(1988),05/23/1988,6.859521217189602E13
+-------NMF Model--------
+1 kosovo
+0.9553459 serbia
+0.91719 milosevic
+0.9076631 albania
+0.9013129 slobodan
+0.7972065 vojvodina
+0.6395488 provinces
+0.5465942 austerity
+0.5352846 montenegro
+0.5181903 meeting
+
+Breakup_of_Yugoslavia
+Kosovo_War
+NATO_bombing_of_Yugoslavia
+Serbia_and_Montenegro
+Socialist_Republic_of_Serbia
+20th-century_history_of_Kosovo
+Serbia_in_the_Yugoslav_Wars
+Political_status_of_Kosovo
+History_of_Serbia
+War_crimes_in_the_Kosovo_War
+
+30, kosovo serbia milosevic albania slobodan vojvodina provinces austerity montenegro meeting,Breakup_of_Yugoslavia,10/23/1988,1.7728130579446847E14
+-------NMF Model--------
+1 super
+0.9370579 gore
+0.8826628 gephardt
+0.8586183 wisconsin
+0.8285382 albert
+0.7870668 primary
+0.7357673 richard
+0.7335959 illinois
+0.7029026 jackson
+0.6946168 jesse
+
+Al_Gore_presidential_campaign,_1988
+Democratic_Party_presidential_primaries,_2000
+Howard_Dean_presidential_campaign,_2004
+Democratic_Party_presidential_primaries,_2004
+United_States_presidential_election,_1988
+Democratic_Party_presidential_primaries,_1992
+Democratic_Party_presidential_primaries,_1988
+Donnie_Fowler
+Bill_Clinton_presidential_campaign,_1992
+Dick_Gephardt
+
+34, super gore gephardt wisconsin albert primary richard illinois jackson jesse,Al_Gore_presidential_campaign,_1988,03/09/1988,1.2249627567198385E13
+-------NMF Model--------
+1 support
+0.9228196 bill
+0.8212213 1986
+0.7248138 states
+0.7131381 contract
+0.7004658 carolina
+0.6768107 rep
+0.6661517 subcommittee
+0.6553449 urge
+0.6408343 richard
+
+Ryan's_Law
+Water_Rights_Protection_Act
+Dale_Folwell
+Jesse_Helms
+Peter_Roskam
+Rick_Nolan
+Eliot_Engel
+Equal_Justice_for_United_States_Military_Personnel_legislation
+Sam_Brownback
+History_of_health_care_reform_in_the_United_States
+
+35, support bill 1986 states contract carolina rep subcommittee urge richard,Ryan's_Law,04/08/1988,3.7391959819728294E14
+-------NMF Model--------
+1 primary
+0.9458618 gephardt
+0.9387917 dole
+0.9322225 robertson
+0.8987167 pat
+0.8819024 gore
+0.8722857 rep
+0.8687201 super
+0.8635352 delegate
+0.8619539 missouri
+
+United_States_presidential_election,_1988
+Howard_Dean_presidential_campaign,_2004
+Democratic_Party_presidential_primaries,_2004
+Democratic_Party_presidential_primaries,_1988
+Republican_Party_presidential_primaries,_1988
+Democratic_Party_presidential_primaries,_2000
+Al_Gore_presidential_campaign,_1988
+Bill_Clinton_presidential_campaign,_1992
+Pete_McCloskey
+Democratic_Party_presidential_primaries,_1992
+
+32, primary gephardt dole robertson pat gore rep super delegate missouri,United_States_presidential_election,_1988,03/09/1988,6.735034905050187E12
+-------NMF Model--------
+1 lake
+0.9888328 50s
+0.9745079 thunderstorm
+0.9504055 40s
+0.9378149 snow
+0.9107313 shower
+0.9089274 30s
+0.8834113 rain
+0.865248 forecast
+0.8139902 90s
+
+Climate_of_the_United_States
+Climate_of_Chicago
+Geography_of_Florida
+Climate_of_Houston
+Richfield,_Utah
+Palmdale,_California
+Climate_of_Puerto_Rico
+Climate_of_the_Tampa_Bay_area
+Westport,_Massachusetts
+Roxboro,_North_Carolina
+
+33, lake 50s thunderstorm 40s snow shower 30s rain forecast 90s,Climate_of_the_United_States,11/04/1988,8.171064188290984E14
+-------NMF Model--------
+1 games
+0.9117391 olympic
+0.7983023 yankee
+0.7789548 naval
+0.7300032 vessel
+0.698354 sailor
+0.6428121 1962
+0.6309455 jury
+0.6183137 radical
+0.6099429 fish
+
+Impressment_(Nova_Scotia)
+USS_Hassayampa_(AO-145)
+Agostino_Straulino
+Brigantine_Yankee
+HMS_Evadne
+USS_Wrangell_(AE-12)
+Santo_Domingo_Affair
+Attack_on_Galle_Harbour
+USS_Yankee_(1861)
+HMAS_Perth_(D_38)
+
+38, games olympic yankee naval vessel sailor 1962 jury radical fish,Impressment_(Nova_Scotia),09/10/1988,2.8012760360602938E14
+-------NMF Model--------
+1 nicaragua
+0.9884672 contra
+0.8407102 sandinista
+0.7802187 rebel
+0.5332787 aid
+0.4972573 cease
+0.3703733 states
+0.3527333 truce
+0.3334708 sapoa
+0.3185974 support
+
+History_of_Nicaragua
+Nicaragua_v._United_States
+Contras
+Reagan_Doctrine
+Political_history_of_Nicaragua
+Sandinista_National_Liberation_Front
+Adolfo_Calero
+History_of_Honduras_(1982–present)
+Enrique_Bermúdez
+History_of_Nicaragua_(1979–90)
+
+39, nicaragua contra sandinista rebel aid cease states truce sapoa support,History_of_Nicaragua,04/03/1988,1.759300886518162E14
+-------NMF Model--------
+1 consecration
+0.9525947 france
+0.8756903 1962
+0.822416 schism
+0.7017969 rhineland
+0.6681213 juergen
+0.6558236 reform
+0.5951363 antonio
+0.577437 palatinate
+0.53584 sanction
+
+SC_Hauenstein
+Left_Bank_of_the_Rhine
+VfB_Wissen
+Rhineland
+Rhineland-Palatinate_Police
+Deutsche_Einheitskurzschrift
+Mundat_Forest
+Coat_of_arms_of_Rhineland-Palatinate
+Lichtenberg_Castle_(Palatinate)
+Frücht
+
+36, consecration france 1962 schism rhineland juergen reform antonio palatinate sanction,SC_Hauenstein,11/28/1988,1.5347067355704912E14
+-------NMF Model--------
+1 hirohito
+0.910486 emperor
+0.733517 imperial
+0.7255197 maeda
+0.6858249 monarch
+0.6773313 kenji
+0.6505314 hemorrhage
+0.6441655 pint
+0.6161595 akihito
+0.5871675 sept
+
+Controversies_regarding_the_role_of_the_Emperor_of_Japan
+Akihito
+Emperor_of_Japan
+Empress_Kōjun
+Hirohito
+Empress_Teimei
+Japanese_Resistance_to_the_Imperial_House_of_Japan
+Empress_Michiko
+Tokyo_Imperial_Palace
+Hideki_Tojo
+
+37, hirohito emperor imperial maeda monarch kenji hemorrhage pint akihito sept,Controversies_regarding_the_role_of_the_Emperor_of_Japan,04/28/1988,1.5968416375932162E14
+-------NMF Model--------
+1 syria
+0.9835312 ame
+0.7426483 slum
+0.6573725 iran
+0.6490782 hafez
+0.6450589 bourj
+0.6450589 barajneh
+0.5655522 saee
+0.5616096 mousa
+0.524712 chatilla
+
+Bourj_el-Barajneh
+Children_of_the_Siege
+Bourj_El-Barajneh
+Bourj_el_Barajneh
+Bourj_el_barajneh
+Bourj_al-Barajneh
+Lebanese_Resistance_Regiments
+Iran–Syria_relations
+Teatr_Biuro_Podróży
+Timeline_of_military_operations_in_the_2006_Lebanon_War
+
+42, syria ame slum iran hafez barajneh bourj saee mousa chatilla,Bourj_el-Barajneh,05/31/1988,3.7408336474594125E14
+-------NMF Model--------
+1 astrology
+0.9805038 081
+0.8506848 regan
+0.785108 astrologer
+0.6740894 noriega
+0.6679942 clinch
+0.6224404 montana
+0.6163982 panama
+0.6136591 horoscope
+0.5790136 manuel
+
+Joan_Quigley
+Hellenistic_astrology
+Psychological_astrology
+Horoscopic_astrology
+Christian_views_on_astrology
+Nicholas_Campion
+Steven_Forrest_(astrologer)
+Western_astrology
+K._N._Rao
+Electional_astrology
+
+43, astrology 081 regan astrologer noriega clinch montana panama horoscope manuel,Joan_Quigley,05/15/1988,2.9773809522426406E13
+-------NMF Model--------
+1 bhutto
+0.9885647 benazir
+0.6195757 zulfikar
+0.5913968 ishaq
+0.5811324 ghulam
+0.5523203 election
+0.4938616 states
+0.4889708 aug
+0.4210151 populist
+0.401487 support
+
+Benazir_Bhutto
+Muhammad_Zia-ul-Haq
+Murtaza_Bhutto
+Nawaz_Sharif
+History_of_Pakistan
+Corruption_charges_against_Benazir_Bhutto_and_Asif_Ali_Zardari
+Japan–Pakistan_relations
+Muhammad_Zia-ul-Haq's_Islamization
+Syed_Mohammad_Ahsan
+Ghulam_Ishaq_Khan
+
+40, bhutto benazir zulfikar ishaq ghulam election states aug populist support,Benazir_Bhutto,12/01/1988,6.455155365404536E14
+-------NMF Model--------
+1 bid
+0.8941269 nabisco
+0.8848792 rjr
+0.8027028 kravi
+0.7958159 kohlberg
+0.6908677 tender
+0.6717417 kraft
+0.5233808 pillsbury
+0.512165 texaco
+0.4407691 icahn
+
+Private_equity_in_the_1980s
+RJR_Nabisco
+Kohlberg_Kravis_Roberts
+Barbarians_at_the_Gate:_The_Fall_of_RJR_Nabisco
+History_of_private_equity_and_venture_capital
+Leveraged_buyout
+Del_Monte_Foods
+Henry_Kravis
+Private_equity
+Barbarians_at_the_Gate_(film)
+
+41, bid nabisco rjr kravi kohlberg tender kraft pillsbury texaco icahn,Private_equity_in_the_1980s,11/15/1988,1.3138690678883012E14
+-------NMF Model--------
+1 contractor
+0.9709176 pentagon
+0.915049 consultant
+0.8832691 procure
+0.8474904 paisley
+0.7613349 bribery
+0.7510081 melvyn
+0.750665 contract
+0.7339682 probe
+0.6906729 navy
+
+Operation_Ill_Wind
+Cunningham_scandal
+Brent_R._Wilkes
+Mitchell_Wade
+Northrop_Grumman
+Melvyn_R._Paisley
+Dale_Stoffel
+Lockheed_Martin_F-35_Lightning_II_Canadian_procurement
+Melvyn_Smith
+EDO_Corporation
+
+46, contractor pentagon consultant procure paisley bribery melvyn contract probe navy,Operation_Ill_Wind,06/29/1988,7.22807079071078E13
+-------NMF Model--------
+1 meese
+0.9777297 edwin
+0.8848157 indict
+0.7687729 iii
+0.7595378 mckay
+0.6734844 wedtech
+0.5921307 wallach
+0.4491276 1986
+0.4439547 iraq
+0.3901049 jury
+
+Wedtech_scandal
+Edwin_Meese
+Edwin_Meese_III
+Edwin_"Ed"_Meese_III
+Edwin_A._Meese_III
+Phil_Harvey
+Right_on_Crime
+Garreth_Bloor
+Robert_B._Carleson
+Initiative_&_Referendum_Institute
+
+47, meese edwin indict iii mckay wedtech wallach 1986 iraq jury,Wedtech_scandal,04/06/1988,2.3380291783254703E14
+-------NMF Model--------
+1 moscow
+0.8972037 nagorno
+0.8962665 karabakh
+0.8350845 estonia
+0.8237179 azerbaijan
+0.7774054 reform
+0.7589164 sumgait
+0.7426143 stalin
+0.7294926 latvia
+0.7257092 perestroika
+
+Dissolution_of_the_Soviet_Union
+Nagorno-Karabakh_War
+Baku_pogrom
+Revolutions_of_1989
+Mikhail_Gorbachev
+United_Armenia
+Sumgait_pogrom
+Anti-Armenian_sentiment_in_Azerbaijan
+Foreign_relations_of_Armenia
+Heydar_Aliyev
+
+44, moscow nagorno karabakh estonia azerbaijan reform sumgait stalin latvia perestroika,Dissolution_of_the_Soviet_Union,11/24/1988,7.435984996452994E14
+-------NMF Model--------
+1 lech
+0.9993112 walesa
+0.9101601 gdansk
+0.8731903 striker
+0.7909023 shipyard
+0.7706685 nowa
+0.7705271 huta
+0.618913 szczecin
+0.561524 czeslaw
+0.5251852 kiszczak
+
+History_of_Solidarity
+Gdańsk_Lech_Wałęsa_Airport
+Anna_Walentynowicz
+Gdansk_Lech_Walesa_Airport
+Bogdan_Borusewicz
+Ales_Bialiatski
+Steve_Weisberg
+Janusz_Korwin-Mikke
+Eirini_Nikolopoulou
+Walesa._Man_of_Hope
+
+45, lech walesa gdansk striker shipyard nowa huta szczecin czeslaw kiszczak,History_of_Solidarity,05/06/1988,8.904639884423501E14
+-------NMF Model--------
+1 iraq
+0.824307 cease
+0.8140476 iran
+0.7559712 cuellar
+0.7504578 tehran
+0.7410408 baghdad
+0.7342247 javier
+0.7295756 perez
+0.6478549 resolution
+0.5640756 velayati
+
+Iran–Iraq_War
+Iran–United_States_relations_after_1979
+War_of_the_Cities
+KDPI_insurgency_(1989–96)
+Foreign_policy_of_Mahmoud_Ahmadinejad
+Operation_Ramadan
+Foreign_relations_of_Iraq
+People's_Mujahedin_of_Iran
+Iraqis_in_Iran
+Iran–Iraq_relations
+
+50, iraq cease iran cuellar tehran baghdad javier perez resolution velayati,Iran–Iraq_War,08/03/1988,1.969094432575633E14
+-------NMF Model--------
+1 contract
+0.8820761 earnings
+0.7736437 june
+0.7715118 october
+0.755716 march
+0.7501753 august
+0.732518 september
+0.6884566 meeting
+0.6876628 july
+0.6823694 april
+
+2014_in_aviation
+List_of_minor_planets/13501–13600
+Timeline_of_the_Battle_of_the_Atlantic
+List_of_minor_planets/7201–7300
+List_of_minor_planets/4801–4900
+List_of_minor_planets/901–1000
+List_of_shipwrecks_in_1835
+List_of_shipwrecks_in_1928
+List_of_shipwrecks_in_1922
+List_of_shipwrecks_in_1833
+
+49, contract earnings june october march august september meeting july april,2014_in_aviation,03/05/1988,2.527432594461583E14
+-------NMF Model--------
+1 elect
+0.5313965 transition
+0.5309513 sununu
+0.5034473 brady
+0.4823638 election
+0.3921585 appointments
+0.3855242 iii
+0.3711508 rep
+0.3665192 meeting
+0.2940011 jan
+
+Third-party_members_of_the_United_States_House_of_Representatives
+United_States_Senate_election_in_New_Hampshire,_2008
+United_States_presidential_election_in_New_Hampshire,_2012
+United_States_Senate_elections,_2008
+James_Tobin_(political_operative)
+Jeanne_Shaheen
+2002_New_Hampshire_Senate_election_phone_jamming_scandal
+United_States_House_of_Representatives_elections_in_Pennsylvania,_2012
+John_E._Sununu
+Demographics_of_the_110th_United_States_Congress
+
+48, elect transition sununu brady election appointments iii rep meeting jan,Third-party_members_of_the_United_States_House_of_Representatives,08/17/1988,2.3960
