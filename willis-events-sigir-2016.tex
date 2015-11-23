@@ -48,14 +48,31 @@ The model works as follows:
 
 \section{Evaluation}
 
-There are three primary concerns in the evaluation of this approach to event detection.  First, did the model find all of the significant events in the corpus? To assess this, we need a ground truth containing a comprehensive list of corpus events. Second, how many of the identified `events' are truly events? In this case, we need to evaluate the results returned by the model.  Third, how accurate are the identified date constraints? To address this question, we need the start and end dates associated with each identified event. 
+There are three primary concerns in the evaluation of this approach to event detection.  First, did the model find all of the significant events in the corpus? To assess this, we would need a ground truth containing a comprehensive list of events in the corpus. Second, how many of the identified `events' are truly events? In this case, we would need to evaluate the results returned by the system.  Third, how accurate are the identified date constraints? To address this question, we would need the start and end dates associated with each identified event. 
 
-For this study, we develop an evaluation methodology based on Wikipedia. Wikipedia contains retrospective information about events themselves, as well as `year' pages (e.g., {\tt https://en.wikipedia.org/wiki/1988}) that include summary lists of important events.  From the Wikipedia `year' page we construct a ground-truth of events for the year.  For each listed event, we extract the description, start, and end dates. Each Wikipedia event is then manually reviewed by two assessors to identify 1) the event category, 2) importance within the category  (major, moderate, minor), and 3) to identify the Wikipedia page most representative of the event. If the event entry indicates something that was not newsworthy at the time (e.g., ``Al-Qaeda is formed by Osama bin Laden''), it is removed.  While some events have dedicated pages, others are described in pages associated with individual entities and some have no representation in Wikipedia at all. The resulting data serves as ground truth for the first part of our evaluation. 
+\subsection{Manual review of events in Wikipedia}
+For this study, we develop an evaluation methodology based on Wikipedia. Wikipedia contains retrospective information about events themselves, as well as `year' pages (e.g., {\tt https://en.wikipedia.org/wiki/1988}) that include summary lists of important events.  From the Wikipedia `year' page we construct a ground-truth of events for the year.  For each listed event, we extract the description, start date, and end date. Each Wikipedia event is then manually reviewed by two assessors to 1) assign an importance level to the event (described below) and 2) to identify the Wikipedia page that best represents the event. Entries that indicate events that were not newsworthy at the time (e.g., ``Al-Qaeda is formed by Osama bin Laden'') are not considered.  While some events have dedicated pages, others are described in pages associated with individual entities and some have no representation in Wikipedia at all. 
+A central concept in the creation of the ground truth is event ``importance.'' The model proposed in this study is concerned primarily with significant or seminal events. One goal of the manual classification is to identify only major events from the perspective of US news media and the public at the time the event occurred. We define the following three categories:
+\begin{enumerate}
+\item Major: News articles about this event are likely to be found on the front-page. Interest in the event spans more than one week.
+\item Moderate: News articles about this event may be briefly found on the front-page. Interest in the event spans less than one week.
+\item Minor: News articles about this event are unlikely to be found on the front-page. Interest in the event may only span a day or two.
+\end{enumerate}
 
-The event detection systems return a set of event models for the top 50 events in the primary corpus. These event models are then used as queries against Wikipedia, returning the top 10 Wikipedia pages that match each event model. The output of the event detection system is compared to the list of events from the ground-truth. We calculate recall, precision, and NDCG.
+The resulting data serves as ground truth for the first part of our evaluation. The event detection system returns the top 50 event models and associated Wikipedia URLs. We can then evaluate system recall based on the events identified in the Wikipedia year page.  Of course, Wikipedia does not provide complete coverage of all possible events. It is likely that the event-detection systems will identify valid events not included in Wikipedia. This is addressed in the next section.
 
-Of course, Wikipedia does not provide complete coverage of all possible events. It is likely that the event-detection systems will identify valid events not included in Wikipedia. To address this, the event models and returned Wikipedia pages are manually evaluated. Assessors consider the event model and constraint dates to judge each event (0 not an event, 1 is an event). For each true event, the returned Wikipedia pages are judged on a 3 point scale (0 not relevant, 1 relevant, 2 highly relevant).
+\subsection{Assessment of events identified by the system}
 
+The event detection systems return a set of event models for the top 50 events, represented as sets of terms and their weights. For each identified event, the systems also return the top 10 Wikipedia pages and a prediction of the event constraints as a set of start and end dates.
+
+Each of these event models and associated Wikipedia pages are manually evaluated. For each event, two assessors will be tasked with reviewing the event models, results, and dates to assess the following:
+\begin{enumerate}
+\item Is this a “real” event (e.g., do you think the model is describing an event that really happened)?
+\item If yes, how relevant are each of the 10 returned results (0=not relevant, 1=relevant, 2=the page is dedicated to the event)
+\item If yes, what are the constraints of the event (start/end dates).
+\end{enumerate}
+
+The first test collection can be used to approximate system recall.  The second test collection can be used to calculate a ranked metric, such as NDCG, for the returned Wikipedia pages. Another metric needs to be developed for the event constraints.
 
 \section{Conclusions}
 
