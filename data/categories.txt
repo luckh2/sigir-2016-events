@@ -1,0 +1,39 @@
+Accident/Disaster
+Entertainment
+Religion
+Sports
+Financial
+US politics
+International politics
+Military
+
+
+Accident
+Accord
+Bombing
+Buyout
+Entertainment award
+Hijacking
+International politics
+Legal indictment
+Massacre
+Military attack
+Military battle
+Military operation
+Military withdrawal
+Natural disaster
+Plane crash
+Political demonstration
+Political election
+Political vote
+Riots
+Space
+Sports event
+Truce
+US VP debate
+US democratic primary
+US political convention
+US presidential debate
+US presidential election
+US republican primary
+World expo
