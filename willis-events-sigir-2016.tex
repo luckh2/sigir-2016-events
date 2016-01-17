@@ -159,27 +159,27 @@ The systems are compared based on the proportion of the top $N=50$ candidate eve
 The TMINMF model was run using the top 1000 features based on ACF and $k=50$ factors for NMF. The LDA model was run using the Mallet implementation with $k=100$ topics, an interval of 10 for hyperparameter optimization, and all other default values. Only the top $N=50$ LDA topics were considered as events for evaluation, based on topic time series ACF.
 
 
-\begin{figure}[!ht]
+\begin{figure*}[!ht]
 \centering
-\begin{subfigure}{.25\textwidth}
+\begin{subfigure}{.5\textwidth}
   \centering
-\includegraphics[width=4cm, height=3cm]{plots/events_at_depth.pdf}
+\includegraphics[width=10cm]{plots/events_at_depth.pdf}
 \end{subfigure}%
-\begin{subfigure}{.25\textwidth}
+\begin{subfigure}{.5\textwidth}
   \centering
-\includegraphics[width=4cm, height=3cm]{plots/unique_urls_at_depth.pdf}
+\includegraphics[width=10cm]{plots/unique_urls_at_depth.pdf}
 \end{subfigure}
-\begin{subfigure}{.25\textwidth}
+\begin{subfigure}{.5\textwidth}
   \centering
-\includegraphics[width=4cm, height=3cm]{plots/events_at_rank_1.pdf}
+\includegraphics[width=10cm]{plots/events_at_rank_1.pdf}
 \end{subfigure}%
-\begin{subfigure}{.25\textwidth}
+\begin{subfigure}{.5\textwidth}
   \centering
-\includegraphics[width=4cm, height=3cm]{plots/events_at_rank_10.pdf}
+\includegraphics[width=10cm]{plots/events_at_rank_10.pdf}
 \end{subfigure}
 \caption{(a) number of known-events at each URL depth, (b) number of unique known-event URLs at each depth (c) number of known events at depth 1 for all ranks, (d) number of known events at depth 10 for all ranks.}
 \label{fig.eventdist}
-\end{figure}
+\end{figure*}
 
 
 
