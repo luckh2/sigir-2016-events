@@ -1,0 +1,77 @@
+\begin{thebibliography}{10}
+
+\bibitem{Blei2003}
+D.~Blei, A.~Ng, and M.~Jordan.
+\newblock {Latent dirichlet allocation}.
+\newblock {\em Journal of Machine Learning Research}, 3:993--1022, 2003.
+
+\bibitem{Chen2009}
+L.~Chen and A.~Roy.
+\newblock {Event detection from flickr data through wavelet-based spatial
+  analysis}.
+\newblock {\em CIKM '09}, page 523, 2009.
+
+\bibitem{Deerwester1990}
+S.~Deerwester, S.~T. Dumais, G.~W. Furnas, T.~K. Landauer, and R.~Harshman.
+\newblock {Indexing by latent semantic analysis}.
+\newblock {\em Journal of the American Society for Information Science},
+  41(6):391--407, 1990.
+
+\bibitem{Fung2005}
+G.~Fung, J.~Yu, P.~Yu, and H.~Lu.
+\newblock {Parameter free bursty events detection in text streams}.
+\newblock {\em VLDB '05}, pages 181--192, 2005.
+
+\bibitem{He2007}
+Q.~He, K.~Chang, and E.-P. Lim.
+\newblock {Analyzing feature trajectories for event detection}.
+\newblock {\em SIGIR '07}, page 207, 2007.
+
+\bibitem{Hofmann1999}
+T.~Hofmann.
+\newblock {Probabilistic latent semantic indexing}.
+\newblock {\em SIGIR '99}, pages 50--57, 1999.
+
+\bibitem{Jones2007}
+R.~Jones and F.~Diaz.
+\newblock {Temporal profiles of queries}.
+\newblock {\em ACM Transactions on Information Systems}, 25(3):14--es, 2007.
+
+\bibitem{Kleinberg2002}
+J.~Kleinberg.
+\newblock {Bursty and hierarchical structure in streams}.
+\newblock {\em SIGKDD '02}, page~91, 2002.
+
+\bibitem{Lee2001}
+D.~Lee and H.~Seung.
+\newblock {Algorithms for non-negative matrix factorization}.
+\newblock {\em Advances in neural information processing systems},
+  (1):556--562, 2001.
+
+\bibitem{Sandhaus2008}
+E.~Sandhaus.
+\newblock {The New York Times Annotated Corpus LDC2008T19}, 2008.
+
+\bibitem{Teng2008}
+C.~Teng and H.~Chen.
+\newblock {Event Detection and Summarization in Weblogs with Temporal
+  Collocations}.
+\newblock In {\em LREC'08}, 2008.
+
+\bibitem{Weng2011}
+J.~Weng and B.~Lee.
+\newblock {Event Detection in Twitter}.
+\newblock In {\em Proc. Fifth International AAAI Conference on Weblogs and
+  Social Media}, number~98, pages 401--408, 2011.
+
+\bibitem{Yang1998}
+Y.~Yang, T.~Pierce, and J.~Carbonell.
+\newblock {A Study of Retrospective and On-line Event Detection}.
+\newblock {\em SIGIR '98}, pages 28--36, 1998.
+
+\bibitem{Yi}
+J.~Yi.
+\newblock {Detecting buzz from time-sequenced document streams}.
+\newblock In {\em IEEE EEE 2005}, pages 347--352, 2005.
+
+\end{thebibliography}
