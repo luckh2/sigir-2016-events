@@ -1,0 +1,1200 @@
+ID	0
+Event	
+Event model	wesley(0.075) clark(0.074) dean(0.055) primary(0.052) howard(0.05) edwards(0.05) kerry(0.049) hampshire(0.048) 2004(0.045) missouri(0.044)
+Estimated dates	09/29/2003,01/26/2004,05/24/2004
+Estimated duration	238
+Google query	https://www.google.com/search?q=+wesley+clark+dean+primary+howard+edwards+kerry+hampshire+2004+missouri
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_New_Hampshire,_2004
+https://en.wikipedia.org/wiki/Opinion_polling_for_the_Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/Wesley_Clark_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/Arizona_Democratic_primary,_2004
+https://en.wikipedia.org/wiki/Wesley_Clark
+https://en.wikipedia.org/wiki/Howard_Dean_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/North_Dakota_Democratic_caucuses,_2004
+https://en.wikipedia.org/wiki/Mini-Tuesday
+
+
+
+ID	1
+Event	
+Event model	taguba(0.036) soldier(0.035) detainee(0.03) prisoner(0.029) karpinski(0.029) ricardo(0.028) fay(0.028) maj(0.028) command(0.027) cellblock(0.027)
+Estimated dates	01/12/2004,05/18/2004,09/21/2004
+Estimated duration	253
+Google query	https://www.google.com/search?q=+taguba+soldier+detainee+prisoner+karpinski+ricardo+fay+maj+command+cellblock
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse
+https://en.wikipedia.org/wiki/Taguba_Report
+https://en.wikipedia.org/wiki/Samuel_Provance
+https://en.wikipedia.org/wiki/Janis_Karpinski
+https://en.wikipedia.org/wiki/Antonio_Taguba
+https://en.wikipedia.org/wiki/Steven_L._Jordan
+https://en.wikipedia.org/wiki/Camp_No
+https://en.wikipedia.org/wiki/Iraq_prison_abuse_scandals
+https://en.wikipedia.org/wiki/Steven_Stefanowicz
+https://en.wikipedia.org/wiki/Ricardo_Sanchez
+
+
+
+ID	2
+Event	
+Event model	poll(0.181) voter(0.131) politics(0.131) bush(0.112) election(0.11) campaign(0.102) vote(0.098) candidate(0.066) senator(0.061) kerry(0.056)
+Estimated dates	04/28/2004,10/20/2004,04/14/2005
+Estimated duration	350
+Google query	https://www.google.com/search?q=+poll+voter+politics+bush+election+campaign+vote+candidate+senator+kerry
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections_in_Florida,_2008
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2008
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections_in_Colorado,_2008
+https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_South_Dakota,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_Pennsylvania,_2004
+https://en.wikipedia.org/wiki/United_States_Senate_Democratic_primary_election_in_Pennsylvania,_2010
+https://en.wikipedia.org/wiki/Bradley_effect
+https://en.wikipedia.org/wiki/Barack_Obama_presidential_primary_campaign,_2008
+
+
+
+ID	3
+Event	
+Event model	port(0.044) au(0.04) aristide(0.038) prince(0.033) philippe(0.032) rebel(0.03) haitien(0.028) gona(0.028) politics(0.028) haiti(0.025)
+Estimated dates	08/23/2003,03/01/2004,09/07/2004
+Estimated duration	380
+Google query	https://www.google.com/search?q=+port+au+aristide+prince+philippe+rebel+haitien+gona+politics+haiti
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Haitian_general_election,_2006
+https://en.wikipedia.org/wiki/Haiti–United_States_relations
+https://en.wikipedia.org/wiki/Haiti
+https://en.wikipedia.org/wiki/United_Nations_Stabilisation_Mission_in_Haiti
+https://en.wikipedia.org/wiki/Haitian_National_Police
+https://en.wikipedia.org/wiki/Faustin_Soulouque
+https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide
+https://en.wikipedia.org/wiki/RAM_(band)
+https://en.wikipedia.org/wiki/Jean-Claude_Bajeux
+https://en.wikipedia.org/wiki/Port-au-Prince
+
+
+
+ID	4
+Event	
+Event model	sadr(0.05) moktada(0.044) baghdad(0.042) sunni(0.039) militia(0.037) falluja(0.036) occupation(0.03) gen(0.027) struggle(0.026) karbala(0.026)
+Estimated dates	12/11/2003,04/26/2004,09/09/2004
+Estimated duration	273
+Google query	https://www.google.com/search?q=+sadr+moktada+baghdad+sunni+militia+falluja+occupation+gen+struggle+karbala
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Muqtada_al-Sadr
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2008
+https://en.wikipedia.org/wiki/Peace_Companies
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2004
+https://en.wikipedia.org/wiki/Siege_of_Sadr_City
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/2007_al-Askari_Mosque_bombing
+https://en.wikipedia.org/wiki/2006_al-Askari_Mosque_bombing
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–06)
+https://en.wikipedia.org/wiki/Moktada_al-Sadr
+
+
+
+ID	5
+Event	
+Event model	soldier(0.073) government(0.068) military(0.068) army(0.056) politics(0.056) security(0.053) troops(0.045) police(0.043) area(0.04) iraq(0.04)
+Estimated dates	07/03/2004,11/11/2004,03/22/2005
+Estimated duration	261
+Google query	https://www.google.com/search?q=+soldier+government+military+army+politics+security+troops+police+area+iraq
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2008
+https://en.wikipedia.org/wiki/Iraqi_Army
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–06)
+https://en.wikipedia.org/wiki/Daraa_Governorate_clashes_(2011–13)
+https://en.wikipedia.org/wiki/Military_police
+https://en.wikipedia.org/wiki/Anbar_campaign_(2013–14)
+https://en.wikipedia.org/wiki/Operation_Imposing_Law
+https://en.wikipedia.org/wiki/Syrian_Civil_War
+https://en.wikipedia.org/wiki/Iraq_War
+
+
+
+ID	6
+Event	
+Event model	dean(0.048) hampshire(0.042) 2004(0.04) debate(0.036) vote(0.029) election(0.028) candidate(0.025) john(0.024) gephardt(0.021) primary(0.02)
+Estimated dates	08/15/2003,01/25/2004,07/05/2004
+Estimated duration	325
+Google query	https://www.google.com/search?q=+dean+hampshire+2004+debate+vote+election+candidate+john+gephardt+primary
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Howard_Dean_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/Dick_Gephardt
+https://en.wikipedia.org/wiki/John_Kerry_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_New_Hampshire,_2004
+https://en.wikipedia.org/wiki/Iowa_Democratic_caucuses,_2004
+https://en.wikipedia.org/wiki/Howard_Dean
+https://en.wikipedia.org/wiki/Lyndon_LaRouche_U.S._presidential_campaigns
+https://en.wikipedia.org/wiki/United_States_Senate_elections,_2010
+
+
+
+ID	7
+Event	
+Event model	kerry(0.077) john(0.056) senator(0.054) presidential(0.052) george(0.043) edwards(0.042) speech(0.035) clinton(0.035) cheney(0.034) candidate(0.033)
+Estimated dates	10/24/2003,02/14/2004,06/06/2004
+Estimated duration	226
+Google query	https://www.google.com/search?q=+kerry+john+senator+presidential+george+edwards+speech+clinton+cheney+candidate
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/John_Edwards
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/George_W._Bush_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/John_Kerry_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/2004_Democratic_National_Convention
+https://en.wikipedia.org/wiki/United_States_presidential_election_debates,_2004
+https://en.wikipedia.org/wiki/John_Kerry
+https://en.wikipedia.org/wiki/Howard_Dean_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/2004_Democratic_National_Convention_keynote_address
+
+
+
+ID	8
+Event	
+Event model	abu(0.058) abuse(0.051) ghraib(0.049) pictures(0.042) prison(0.041) gen(0.031) donald(0.029) pentagon(0.028) acts(0.028) torture(0.027)
+Estimated dates	01/17/2004,05/14/2004,09/09/2004
+Estimated duration	235
+Google query	https://www.google.com/search?q=+abu+abuse+ghraib+pictures+prison+gen+donald+pentagon+acts+torture
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse
+https://en.wikipedia.org/wiki/Iraq_prison_abuse_scandals
+https://en.wikipedia.org/wiki/Janis_Karpinski
+https://en.wikipedia.org/wiki/Charles_Graner
+https://en.wikipedia.org/wiki/Abu_Ghraib_prison
+https://en.wikipedia.org/wiki/Steven_Stefanowicz
+https://en.wikipedia.org/wiki/Geoffrey_D._Miller
+https://en.wikipedia.org/wiki/Samuel_Provance
+https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques
+https://en.wikipedia.org/wiki/Death_of_Manadel_al-Jamadi
+
+
+
+ID	9
+Event	
+Event model	government(0.024) attack(0.019) rule(0.019) yushchenko(0.017) area(0.017) security(0.016) fall(0.014) financial(0.014) al(0.012) john(0.012)
+Estimated dates	09/25/2003,02/20/2004,07/18/2004
+Estimated duration	297
+Google query	https://www.google.com/search?q=+government+attack+rule+yushchenko+area+security+fall+financial+al+john
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/2008_Ukrainian_political_crisis
+https://en.wikipedia.org/wiki/Battle_of_Ramadi_(2014–15)
+https://en.wikipedia.org/wiki/Petro_Poroshenko
+https://en.wikipedia.org/wiki/Viktor_Yanukovych
+https://en.wikipedia.org/wiki/Orange_Revolution
+https://en.wikipedia.org/wiki/Second_Battle_of_Idlib
+https://en.wikipedia.org/wiki/History_of_Russia_(1992–present)
+https://en.wikipedia.org/wiki/Syrian_Civil_War
+https://en.wikipedia.org/wiki/Timeline_of_the_Orange_Revolution
+https://en.wikipedia.org/wiki/First_Tymoshenko_Government
+
+
+
+ID	10
+Event	
+Event model	mosul(0.028) conflict(0.023) musab(0.023) falluja(0.021) zarqawi(0.02) ayad(0.015) hastings(0.015) guardsmen(0.015) stryker(0.013) east(0.013)
+Estimated dates	06/19/2004,11/09/2004,03/31/2005
+Estimated duration	285
+Google query	https://www.google.com/search?q=+mosul+conflict+musab+falluja+zarqawi+ayad+hastings+guardsmen+stryker+east
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–11)
+https://en.wikipedia.org/wiki/Ayad_Allawi
+https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi
+https://en.wikipedia.org/wiki/Musab_al_Zarqawi
+https://en.wikipedia.org/wiki/Musab_al-Zarqawi
+https://en.wikipedia.org/wiki/Abu_Musab_Zarqawi
+https://en.wikipedia.org/wiki/Abu_musab_al-zarqawi
+https://en.wikipedia.org/wiki/Abu_Mus'ab_az-Zarqawi
+https://en.wikipedia.org/wiki/Abu-Musab_al-Zarqawi
+https://en.wikipedia.org/wiki/Abu_Musab_al_Zarqawi
+
+
+
+ID	11
+Event	
+Event model	deadly(0.074) tsunami(0.061) sri(0.06) indonesia(0.044) sea(0.038) hit(0.037) disaster(0.037) ocean(0.035) indian(0.035) aceh(0.034)
+Estimated dates	05/15/2004,12/29/2004,08/13/2005
+Estimated duration	455
+Google query	https://www.google.com/search?q=+deadly+tsunami+sri+indonesia+sea+hit+disaster+ocean+indian+aceh
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami
+https://en.wikipedia.org/wiki/2012_Indian_Ocean_earthquakes
+https://en.wikipedia.org/wiki/Library_damage_resulting_from_the_2004_Indian_Ocean_earthquake
+https://en.wikipedia.org/wiki/Effect_of_the_2004_Indian_Ocean_earthquake_on_Indonesia
+https://en.wikipedia.org/wiki/Effect_of_the_2004_Indian_Ocean_earthquake_on_Sri_Lanka
+https://en.wikipedia.org/wiki/Bob_McKerrow
+https://en.wikipedia.org/wiki/Tsunami
+https://en.wikipedia.org/wiki/Aid_Still_Required
+https://en.wikipedia.org/wiki/Aceh_Tsunami_Museum
+https://en.wikipedia.org/wiki/Indian_Ocean_Tsunami_Warning_System
+
+
+
+ID	12
+Event	
+Event model	falluja(0.034) mosul(0.032) insurgent(0.03) stryker(0.03) conflict(0.025) hastings(0.023) mosque(0.021) guardsmen(0.021) expeditionary(0.018) mujahedeen(0.017)
+Estimated dates	09/03/2004,11/19/2004,02/03/2005
+Estimated duration	153
+Google query	https://www.google.com/search?q=+falluja+mosul+insurgent+stryker+conflict+hastings+mosque+guardsmen+expeditionary+mujahedeen
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Battle_of_Mosul_(2004)
+https://en.wikipedia.org/wiki/American-led_intervention_in_Iraq_(2014–present)
+https://en.wikipedia.org/wiki/28th_Infantry_Division_(United_States)
+https://en.wikipedia.org/wiki/Gerard_Leachman
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–06)
+https://en.wikipedia.org/wiki/732nd_Expeditionary_Security_Forces_Squadron
+https://en.wikipedia.org/wiki/Ninawa_campaign
+https://en.wikipedia.org/wiki/Tal_Afar
+https://en.wikipedia.org/wiki/Mosul
+https://en.wikipedia.org/wiki/296th_Brigade_Support_Battalion
+
+
+
+ID	13
+Event	
+Event model	yushchenko(0.074) ukraine(0.043) kuchma(0.039) putin(0.036) yanukovich(0.035) leonid(0.035) kiev(0.032) politics(0.029) viktor(0.026) runoff(0.023)
+Estimated dates	05/15/2004,12/07/2004,07/01/2005
+Estimated duration	412
+Google query	https://www.google.com/search?q=+yushchenko+ukraine+kuchma+putin+yanukovich+leonid+kiev+politics+viktor+runoff
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Timeline_of_the_Orange_Revolution
+https://en.wikipedia.org/wiki/Ukrainian_presidential_election,_2010
+https://en.wikipedia.org/wiki/Orange_Revolution
+https://en.wikipedia.org/wiki/Yulia_Tymoshenko
+https://en.wikipedia.org/wiki/Viktor_Yanukovych
+https://en.wikipedia.org/wiki/Ukrainian_presidential_election,_2004
+https://en.wikipedia.org/wiki/President_of_Ukraine
+https://en.wikipedia.org/wiki/Ukraine–European_Union_relations
+https://en.wikipedia.org/wiki/History_of_Ukraine
+https://en.wikipedia.org/wiki/Modern_history_of_Ukraine
+
+
+
+ID	14
+Event	
+Event model	politics(0.057) senator(0.055) vote(0.037) bush(0.037) john(0.036) campaign(0.034) representative(0.032) speech(0.031) kerry(0.028) dr(0.028)
+Estimated dates	10/17/2003,02/09/2004,06/03/2004
+Estimated duration	230
+Google query	https://www.google.com/search?q=+politics+senator+vote+bush+john+campaign+representative+speech+kerry+dr
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/John_Kerry
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/2004_Democratic_National_Convention
+https://en.wikipedia.org/wiki/John_Kerry_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections_in_Florida,_2008
+https://en.wikipedia.org/wiki/George_W._Bush_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/John_McCain
+https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections_in_Colorado,_2008
+https://en.wikipedia.org/wiki/House_and_Senate_career_of_John_McCain,_until_2000
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+
+
+
+ID	15
+Event	
+Event model	clarke(0.039) attack(0.03) threat(0.029) information(0.026) terrorism(0.024) security(0.022) 11(0.022) war(0.021) terrorist(0.02) testimony(0.019)
+Estimated dates	10/23/2003,04/02/2004,09/11/2004
+Estimated duration	324
+Google query	https://www.google.com/search?q=+clarke+attack+threat+information+terrorism+security+11+war+terrorist+testimony
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Richard_A._Clarke
+https://en.wikipedia.org/wiki/Against_All_Enemies
+https://en.wikipedia.org/wiki/The_One_Percent_Doctrine
+https://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations
+https://en.wikipedia.org/wiki/United_States_border_security_concerns
+https://en.wikipedia.org/wiki/Cyberwarfare
+https://en.wikipedia.org/wiki/Rationale_for_the_Iraq_War
+https://en.wikipedia.org/wiki/Larry_C._Johnson
+https://en.wikipedia.org/wiki/Aftermath_of_the_Northwest_Airlines_Flight_253_attack
+https://en.wikipedia.org/wiki/Foreign_policy_of_the_George_W._Bush_administration
+
+
+
+ID	16
+Event	
+Event model	interim(0.032) iyad(0.031) ajil(0.029) sovereignty(0.029) forces(0.028) ghazi(0.028) hussein(0.027) lakhdar(0.025) government(0.025) brahimi(0.025)
+Estimated dates	12/17/2003,05/31/2004,11/13/2004
+Estimated duration	332
+Google query	https://www.google.com/search?q=+interim+iyad+ajil+sovereignty+forces+ghazi+hussein+lakhdar+government+brahimi
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Ghazi_Mashal_Ajil_al-Yawer
+https://en.wikipedia.org/wiki/Iraqi_Interim_Government
+https://en.wikipedia.org/wiki/Ayad_Allawi
+https://en.wikipedia.org/wiki/Lakhdar_Brahimi
+https://en.wikipedia.org/wiki/Supreme_Iraqi_Criminal_Tribunal
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Lakhdar_Brahimi_Syrian_peace_plan
+https://en.wikipedia.org/wiki/Jay_Garner
+https://en.wikipedia.org/wiki/Ghazi_Ajil_al-Yawer
+https://en.wikipedia.org/wiki/Yasser_Arafat
+
+
+
+ID	17
+Event	
+Event model	attack(0.102) al(0.082) qaeda(0.071) terrorist(0.061) bush(0.06) terrorism(0.048) politics(0.045) threat(0.045) war(0.038) 11(0.037)
+Estimated dates	11/08/2003,03/28/2004,08/16/2004
+Estimated duration	281
+Google query	https://www.google.com/search?q=+attack+al+qaeda+terrorist+bush+terrorism+politics+threat+war+11
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations
+https://en.wikipedia.org/wiki/Richard_A._Clarke
+https://en.wikipedia.org/wiki/War_on_Terror
+https://en.wikipedia.org/wiki/USS_Cole_bombing
+https://en.wikipedia.org/wiki/Responsibility_for_the_September_11_attacks
+https://en.wikipedia.org/wiki/The_One_Percent_Doctrine
+https://en.wikipedia.org/wiki/International_counter-terrorism_activities_of_CIA
+https://en.wikipedia.org/wiki/Iraq_War_and_the_War_on_Terror
+https://en.wikipedia.org/wiki/Foreign_policy_of_the_George_W._Bush_administration
+https://en.wikipedia.org/wiki/Larry_C._Johnson
+
+
+
+ID	18
+Event	
+Event model	charley(0.058) storm(0.044) frances(0.04) ivan(0.038) damage(0.035) hurricane(0.032) hit(0.032) area(0.029) arcadia(0.026) coast(0.025)
+Estimated dates	07/27/2004,09/03/2004,10/11/2004
+Estimated duration	76
+Google query	https://www.google.com/search?q=+charley+storm+frances+ivan+damage+hurricane+hit+area+arcadia+coast
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/2004_Atlantic_hurricane_season
+https://en.wikipedia.org/wiki/1980_Atlantic_hurricane_season
+https://en.wikipedia.org/wiki/1992_Atlantic_hurricane_season
+https://en.wikipedia.org/wiki/1998_Atlantic_hurricane_season
+https://en.wikipedia.org/wiki/Hurricane_Charley
+https://en.wikipedia.org/wiki/Hurricane_Ivan
+https://en.wikipedia.org/wiki/Hurricane_Frances
+https://en.wikipedia.org/wiki/1986_Atlantic_hurricane_season
+https://en.wikipedia.org/wiki/Effects_of_Hurricane_Charley_in_Jamaica
+https://en.wikipedia.org/wiki/Hurricane_Charley_(1986)
+
+
+
+ID	19
+Event	
+Event model	criminal(0.032) court(0.027) release(0.027) information(0.025) police(0.025) fall(0.025) damage(0.023) rule(0.023) ordered(0.023) reach(0.022)
+Estimated dates	05/12/2004,09/29/2004,02/16/2005
+Estimated duration	280
+Google query	https://www.google.com/search?q=+criminal+court+release+information+police+fall+damage+rule+ordered+reach
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/R_(L)_v_Comr_of_Police_of_the_Metropolis
+https://en.wikipedia.org/wiki/Criminal_transmission_of_HIV
+https://en.wikipedia.org/wiki/Bail
+https://en.wikipedia.org/wiki/Arrest_warrant
+https://en.wikipedia.org/wiki/Hudson_v._Michigan
+https://en.wikipedia.org/wiki/Youth_Criminal_Justice_Act
+https://en.wikipedia.org/wiki/Stop_and_identify_statutes
+https://en.wikipedia.org/wiki/Bail_(Canada)
+https://en.wikipedia.org/wiki/Yuriy_Lutsenko
+https://en.wikipedia.org/wiki/United_States_v._Payner
+
+
+
+ID	20
+Event	
+Event model	prisoner(0.06) abuse(0.041) prison(0.039) military(0.029) war(0.026) iraq(0.023) struggle(0.023) reach(0.022) ghraib(0.021) soldier(0.02)
+Estimated dates	01/22/2004,05/14/2004,09/03/2004
+Estimated duration	224
+Google query	https://www.google.com/search?q=+prisoner+abuse+prison+military+war+iraq+struggle+reach+ghraib+soldier
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse
+https://en.wikipedia.org/wiki/Iraq_prison_abuse_scandals
+https://en.wikipedia.org/wiki/Charles_Graner
+https://en.wikipedia.org/wiki/Megan_Ambuhl
+https://en.wikipedia.org/wiki/Abu_Ghraib_prison
+https://en.wikipedia.org/wiki/Antonio_Taguba
+https://en.wikipedia.org/wiki/Steven_Stefanowicz
+https://en.wikipedia.org/wiki/Lynndie_England
+https://en.wikipedia.org/wiki/Thomas_Pappas
+https://en.wikipedia.org/wiki/Bagram_torture_and_prisoner_abuse
+
+
+
+ID	21
+Event	
+Event model	florida(0.048) polling(0.039) swing(0.038) registration(0.036) race(0.036) turnout(0.034) margin(0.033) gore(0.031) electoral(0.031) pennsylvania(0.029)
+Estimated dates	06/07/2004,10/25/2004,03/13/2005
+Estimated duration	279
+Google query	https://www.google.com/search?q=+florida+polling+swing+registration+race+turnout+margin+gore+electoral+pennsylvania
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2008
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2000
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2012
+https://en.wikipedia.org/wiki/United_States_presidential_election,_1996
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_Pennsylvania,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_Florida,_2004
+https://en.wikipedia.org/wiki/Rasmussen_Reports
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_Florida,_2012
+https://en.wikipedia.org/wiki/Swing_state
+https://en.wikipedia.org/wiki/Voter_turnout
+
+
+
+ID	22
+Event	
+Event model	military(0.046) reach(0.029) basque(0.026) spain(0.021) troops(0.019) government(0.019) occupation(0.016) area(0.016) sovereignty(0.016) forces(0.015)
+Estimated dates	10/16/2003,03/18/2004,08/19/2004
+Estimated duration	307
+Google query	https://www.google.com/search?q=+military+reach+basque+spain+troops+government+occupation+area+sovereignty+forces
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/History_of_the_Basques
+https://en.wikipedia.org/wiki/Spanish_Civil_War
+https://en.wikipedia.org/wiki/Spain
+https://en.wikipedia.org/wiki/Mariano_Gámir_Ulíbarri
+https://en.wikipedia.org/wiki/History_of_Spain
+https://en.wikipedia.org/wiki/History_of_Catalonia
+https://en.wikipedia.org/wiki/Basque_Auxiliary_Navy
+https://en.wikipedia.org/wiki/Third_Carlist_War
+https://en.wikipedia.org/wiki/Republican_faction_(Spanish_Civil_War)
+https://en.wikipedia.org/wiki/Navarre
+
+
+
+ID	23
+Event	
+Event model	clarke(0.051) rice(0.05) threat(0.038) testimony(0.034) richard(0.029) condoleezza(0.028) attack(0.028) kerrey(0.027) clinton(0.023) terrorism(0.023)
+Estimated dates	09/29/2003,04/01/2004,10/04/2004
+Estimated duration	370
+Google query	https://www.google.com/search?q=+clarke+rice+threat+testimony+richard+condoleezza+attack+kerrey+clinton+terrorism
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Richard_A._Clarke
+https://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations
+https://en.wikipedia.org/wiki/The_One_Percent_Doctrine
+https://en.wikipedia.org/wiki/American_Faust:_From_Condi_to_Neo-Condi
+https://en.wikipedia.org/wiki/Condoleezza_Rice
+https://en.wikipedia.org/wiki/Against_All_Enemies
+https://en.wikipedia.org/wiki/Jim_Wilkinson_(former_U.S._government_employee)
+https://en.wikipedia.org/wiki/Criticism_of_the_9/11_Commission
+https://en.wikipedia.org/wiki/Foreign_policy_of_the_George_W._Bush_administration
+https://en.wikipedia.org/wiki/9/11_Commission
+
+
+
+ID	24
+Event	
+Event model	lakhdar(0.055) governing(0.04) brahimi(0.033) sovereignty(0.033) bremer(0.033) pachachi(0.021) blackwill(0.02) june(0.02) council(0.019) envoy(0.019)
+Estimated dates	01/31/2004,05/28/2004,09/22/2004
+Estimated duration	235
+Google query	https://www.google.com/search?q=+lakhdar+governing+brahimi+sovereignty+bremer+pachachi+blackwill+june+council+envoy
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Ghazi_Mashal_Ajil_al-Yawer
+https://en.wikipedia.org/wiki/Lakhdar_Brahimi
+https://en.wikipedia.org/wiki/Lakhdar_Brahimi_Syrian_peace_plan
+https://en.wikipedia.org/wiki/Lakhdar_Brahimi_peace_envoy_for_Syria
+https://en.wikipedia.org/wiki/The_Elders_(organization)
+https://en.wikipedia.org/wiki/Lakhdar_Brahimi_peace_plan_for_Syria
+https://en.wikipedia.org/wiki/Panel_of_the_Wise
+https://en.wikipedia.org/wiki/Ezzedine_Choukri_Fishere
+https://en.wikipedia.org/wiki/Geneva_II_Conference_on_Syria
+https://en.wikipedia.org/wiki/Adnan_Pachachi
+
+
+
+ID	25
+Event	
+Event model	kucinich(0.061) braun(0.057) moseley(0.054) sharpton(0.048) dennis(0.035) lieberman(0.021) gephardt(0.021) dean(0.02) representative(0.018) iowa(0.018)
+Estimated dates	08/22/2003,02/03/2004,07/17/2004
+Estimated duration	330
+Google query	https://www.google.com/search?q=+kucinich+braun+moseley+sharpton+dennis+lieberman+gephardt+dean+representative+iowa
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/Dennis_Kucinich_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/Iowa_Democratic_caucuses,_2004
+https://en.wikipedia.org/wiki/Dennis_Kucinich
+https://en.wikipedia.org/wiki/District_of_Columbia_Democratic_primary,_2004
+https://en.wikipedia.org/wiki/African-American_candidates_for_President_of_the_United_States
+https://en.wikipedia.org/wiki/Carol_Moseley_Braun
+https://en.wikipedia.org/wiki/Dennis_Kucinich_presidential_campaign,_2008
+https://en.wikipedia.org/wiki/Factions_in_the_Democratic_Party_(United_States)
+
+
+
+ID	26
+Event	
+Event model	abbas(0.031) karbala(0.028) mukhaiyam(0.027) militia(0.027) sadr(0.025) mahdi(0.023) najaf(0.021) shrine(0.02) moktada(0.019) millimeter(0.019)
+Estimated dates	01/14/2004,05/03/2004,08/20/2004
+Estimated duration	219
+Google query	https://www.google.com/search?q=+abbas+karbala+mukhaiyam+militia+sadr+mahdi+najaf+shrine+moktada+millimeter
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Peace_Companies
+https://en.wikipedia.org/wiki/Muqtada_al-Sadr
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2004
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2008
+https://en.wikipedia.org/wiki/Holiest_sites_in_Shia_Islam
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Battle_of_Najaf_(2004)
+https://en.wikipedia.org/wiki/Freedom_of_religion_in_Iraq
+https://en.wikipedia.org/wiki/Siege_of_Sadr_City
+https://en.wikipedia.org/wiki/Karbala
+
+
+
+ID	27
+Event	
+Event model	abbas(0.036) mahmoud(0.035) arafat(0.032) ramallah(0.031) barghouti(0.025) fatah(0.025) palestine(0.024) burial(0.024) liberation(0.024) suha(0.022)
+Estimated dates	06/14/2004,11/24/2004,05/05/2005
+Estimated duration	325
+Google query	https://www.google.com/search?q=+abbas+mahmoud+arafat+ramallah+barghouti+fatah+palestine+burial+liberation+suha
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Yasser_Arafat
+https://en.wikipedia.org/wiki/Second_Intifada
+https://en.wikipedia.org/wiki/Fatah–Hamas_conflict
+https://en.wikipedia.org/wiki/Mustafa_Barghouti
+https://en.wikipedia.org/wiki/Fatah
+https://en.wikipedia.org/wiki/Palestinian_presidential_election,_2005
+https://en.wikipedia.org/wiki/Palestinian_legislative_election,_2006
+https://en.wikipedia.org/wiki/Palestinian_National_Authority
+https://en.wikipedia.org/wiki/History_of_Hamas
+https://en.wikipedia.org/wiki/Mohammed_Dahlan
+
+
+
+ID	28
+Event	
+Event model	sadr(0.047) moktada(0.036) sunni(0.034) zarqawi(0.031) falluja(0.028) uprising(0.026) militant(0.023) najaf(0.023) ramadi(0.022) insurgent(0.022)
+Estimated dates	01/26/2004,04/25/2004,07/23/2004
+Estimated duration	179
+Google query	https://www.google.com/search?q=+sadr+moktada+sunni+zarqawi+falluja+uprising+militant+najaf+ramadi+insurgent
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–06)
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2004
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–11)
+https://en.wikipedia.org/wiki/Five_Martyrs_of_Shia_Islam
+https://en.wikipedia.org/wiki/Peace_Companies
+https://en.wikipedia.org/wiki/Iraq_War_in_Anbar_Province
+https://en.wikipedia.org/wiki/Muqtada_al-Sadr
+https://en.wikipedia.org/wiki/Ayad_Allawi
+https://en.wikipedia.org/wiki/Jama'at_al-Tawhid_wal-Jihad
+
+
+
+ID	29
+Event	
+Event model	40th(0.059) reagan(0.054) ronald(0.041) funeral(0.04) gorbachev(0.033) alzheimer(0.029) former(0.029) burial(0.021) coffin(0.019) george(0.018)
+Estimated dates	08/08/2004,11/09/2004,02/10/2005
+Estimated duration	185
+Google query	https://www.google.com/search?q=+40th+reagan+ronald+funeral+gorbachev+alzheimer+former+burial+coffin+george
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Ronald_Reagan
+https://en.wikipedia.org/wiki/Ronald_Reagan_Presidential_Library
+https://en.wikipedia.org/wiki/Ronald_Reagan
+https://en.wikipedia.org/wiki/Political_positions_of_Ronald_Reagan
+https://en.wikipedia.org/wiki/Ronald_Reagan_Boyhood_Home
+https://en.wikipedia.org/wiki/Nancy_Reagan
+https://en.wikipedia.org/wiki/USS_Ronald_Reagan
+https://en.wikipedia.org/wiki/Main_Street_Historic_District_(Tampico,_Illinois)
+https://en.wikipedia.org/wiki/Richard_von_Weizsäcker
+https://en.wikipedia.org/wiki/Speeches_and_debates_of_Ronald_Reagan
+
+
+
+ID	30
+Event	
+Event model	sistani(0.028) pachachi(0.027) ayatollah(0.027) babil(0.026) ghazi(0.024) yawar(0.023) turnout(0.022) mosul(0.02) electoral(0.017) saddam(0.016)
+Estimated dates	06/14/2004,11/18/2004,04/24/2005
+Estimated duration	314
+Google query	https://www.google.com/search?q=+sistani+pachachi+ayatollah+babil+ghazi+yawar+turnout+mosul+electoral+saddam
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–06)
+https://en.wikipedia.org/wiki/Ghazi_Mashal_Ajil_al-Yawer
+https://en.wikipedia.org/wiki/Islamic_Supreme_Council_of_Iraq
+https://en.wikipedia.org/wiki/Ali_al-Sistani
+https://en.wikipedia.org/wiki/Abu_al-Qasim_al-Khoei
+https://en.wikipedia.org/wiki/Akhbar_Al_Khaleej
+https://en.wikipedia.org/wiki/Muhsin_al-Hakim
+https://en.wikipedia.org/wiki/Ayatollah_Sistani
+https://en.wikipedia.org/wiki/Grand_Ayatollah_Sistani
+
+
+
+ID	31
+Event	
+Event model	pakistan(0.038) naeem(0.036) noor(0.032) operative(0.028) hindi(0.028) khan(0.025) newark(0.025) detailed(0.022) qaeda(0.021) prudential(0.02)
+Estimated dates	12/01/2003,02/18/2004,05/06/2004
+Estimated duration	157
+Google query	https://www.google.com/search?q=+pakistan+naeem+noor+operative+hindi+khan+newark+detailed+qaeda+prudential
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Muhammad_Naeem_Noor_Khan
+https://en.wikipedia.org/wiki/Naeem_Bokhari
+https://en.wikipedia.org/wiki/Foodistan
+https://en.wikipedia.org/wiki/Omar_Bakri_Muhammad
+https://en.wikipedia.org/wiki/Noor_Muhammad_Butt
+https://en.wikipedia.org/wiki/Anjuman_Talaba-e-Islam
+https://en.wikipedia.org/wiki/Naeem_Noor_Khan
+https://en.wikipedia.org/wiki/Mohammad_Naeem_Noor_Khan
+https://en.wikipedia.org/wiki/Mohammed_Naeem_Noor_Khan
+https://en.wikipedia.org/wiki/Naeem_Hashmi
+
+
+
+ID	32
+Event	
+Event model	carrick(0.02) trippi(0.017) communion(0.014) kerry(0.014) mitofsky(0.013) curt(0.012) gephardt(0.012) wesley(0.012) senator(0.012) raucous(0.012)
+Estimated dates	09/07/2003,01/25/2004,06/13/2004
+Estimated duration	280
+Google query	https://www.google.com/search?q=+carrick+trippi+communion+kerry+mitofsky+curt+gephardt+wesley+senator+raucous
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/Joe_Trippi
+https://en.wikipedia.org/wiki/John_Kerry_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/Warren_Mitofsky
+https://en.wikipedia.org/wiki/Iowa_Democratic_caucuses,_2004
+https://en.wikipedia.org/wiki/Steve_McMahon_(consultant)
+https://en.wikipedia.org/wiki/Mark_Squier
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2000
+https://en.wikipedia.org/wiki/Richard_Gephardt_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/Dick_Gephardt
+
+
+
+ID	33
+Event	
+Event model	basque(0.049) spain(0.042) al(0.036) qaeda(0.032) casablanca(0.03) morocco(0.029) terrorist(0.028) terrorism(0.026) attack(0.026) zougam(0.025)
+Estimated dates	09/14/2003,03/17/2004,09/18/2004
+Estimated duration	369
+Google query	https://www.google.com/search?q=+basque+spain+al+qaeda+casablanca+morocco+terrorist+terrorism+attack+zougam
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/2004_Madrid_train_bombings
+https://en.wikipedia.org/wiki/Controversies_about_the_2004_Madrid_train_bombings
+https://en.wikipedia.org/wiki/Karim_el-Mejjati
+https://en.wikipedia.org/wiki/Reactions_to_the_2004_Madrid_train_bombings
+https://en.wikipedia.org/wiki/Iraq_War_and_the_War_on_Terror
+https://en.wikipedia.org/wiki/Ali_Anouzla
+https://en.wikipedia.org/wiki/International_counter-terrorism_activities_of_CIA
+https://en.wikipedia.org/wiki/Foreign_relations_of_Morocco
+https://en.wikipedia.org/wiki/2003_Marriott_Hotel_bombing
+https://en.wikipedia.org/wiki/Al-Qaeda_involvement_in_Europe
+
+
+
+ID	34
+Event	
+Event model	iraq(0.114) military(0.11) bush(0.107) saddam(0.062) war(0.057) politics(0.053) hussein(0.049) prisoner(0.031) security(0.027) soldier(0.026)
+Estimated dates	05/24/2004,10/10/2004,02/26/2005
+Estimated duration	278
+Google query	https://www.google.com/search?q=+iraq+military+bush+saddam+war+politics+hussein+prisoner+security+soldier
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Rationale_for_the_Iraq_War
+https://en.wikipedia.org/wiki/Iraq_War
+https://en.wikipedia.org/wiki/2003_invasion_of_Iraq
+https://en.wikipedia.org/wiki/Governmental_positions_on_the_Iraq_War_prior_to_the_2003_invasion_of_Iraq
+https://en.wikipedia.org/wiki/Saddam_Hussein
+https://en.wikipedia.org/wiki/CIA_activities_in_Iraq
+https://en.wikipedia.org/wiki/Opposition_to_the_Iraq_War
+https://en.wikipedia.org/wiki/Gulf_War
+https://en.wikipedia.org/wiki/United_States_support_for_Iraq_during_the_Iran–Iraq_war
+https://en.wikipedia.org/wiki/George_W._Bush_and_the_Iraq_War
+
+
+
+ID	35
+Event	
+Event model	vermont(0.016) clark(0.015) gertrude(0.014) lieberman(0.014) boat(0.014) debate(0.014) wesley(0.013) runner(0.013) senator(0.013) gen(0.013)
+Estimated dates	12/16/2003,01/25/2004,03/06/2004
+Estimated duration	81
+Google query	https://www.google.com/search?q=+vermont+clark+gertrude+lieberman+boat+debate+wesley+runner+senator+gen
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/Opinion_polling_for_the_Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election_debates,_2000
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2000
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_New_Hampshire,_2004
+https://en.wikipedia.org/wiki/Charles_R._Chamberlain
+https://en.wikipedia.org/wiki/Arizona_Democratic_primary,_2004
+https://en.wikipedia.org/wiki/Wesley_Clark
+https://en.wikipedia.org/wiki/Jason_W._Forrester
+
+
+
+ID	36
+Event	
+Event model	beslan(0.059) basayev(0.058) ossetia(0.038) kremlin(0.038) shamil(0.033) maskhadov(0.033) chechen(0.03) aslan(0.029) putin(0.028) dagestan(0.028)
+Estimated dates	02/27/2004,09/08/2004,03/22/2005
+Estimated duration	388
+Google query	https://www.google.com/search?q=+beslan+basayev+ossetia+kremlin+shamil+maskhadov+chechen+aslan+putin+dagestan
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Shamil_Basayev
+https://en.wikipedia.org/wiki/Beslan_school_siege
+https://en.wikipedia.org/wiki/Second_Chechen_War
+https://en.wikipedia.org/wiki/Suicide_attacks_in_the_North_Caucasus_conflict
+https://en.wikipedia.org/wiki/Dokka_Umarov
+https://en.wikipedia.org/wiki/Nur-Pashi_Kulayev
+https://en.wikipedia.org/wiki/2005_Nalchik_raid
+https://en.wikipedia.org/wiki/History_of_Chechnya
+https://en.wikipedia.org/wiki/First_Chechen_War
+https://en.wikipedia.org/wiki/Aslan_Maskhadov
+
+
+
+ID	37
+Event	
+Event model	siege(0.027) moscow(0.026) ossetia(0.026) chechen(0.024) hostage(0.022) beslan(0.02) rebel(0.018) soldier(0.016) dead(0.015) held(0.014)
+Estimated dates	03/15/2004,09/09/2004,03/05/2005
+Estimated duration	354
+Google query	https://www.google.com/search?q=+siege+moscow+ossetia+chechen+hostage+beslan+rebel+soldier+dead+held
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Beslan_school_siege
+https://en.wikipedia.org/wiki/Alpha_Group
+https://en.wikipedia.org/wiki/Shamil_Basayev
+https://en.wikipedia.org/wiki/Suicide_attacks_in_the_North_Caucasus_conflict
+https://en.wikipedia.org/wiki/Second_Chechen_War_crimes_and_terrorism
+https://en.wikipedia.org/wiki/Russian_government_censorship_of_Chechnya_coverage
+https://en.wikipedia.org/wiki/Riyad-us_Saliheen_Brigade_of_Martyrs
+https://en.wikipedia.org/wiki/Ingushetia
+https://en.wikipedia.org/wiki/History_of_Chechnya
+https://en.wikipedia.org/wiki/Nur-Pashi_Kulayev
+
+
+
+ID	38
+Event	
+Event model	propulsion(0.036) orbit(0.034) nasa(0.031) mars(0.03) rover(0.026) moon(0.025) scientist(0.025) aeronautics(0.024) cassini(0.023) station(0.018)
+Estimated dates	07/10/2003,01/19/2004,07/30/2004
+Estimated duration	386
+Google query	https://www.google.com/search?q=+propulsion+orbit+nasa+mars+rover+moon+scientist+aeronautics+cassini+station
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Unmanned_NASA_missions
+https://en.wikipedia.org/wiki/NASA
+https://en.wikipedia.org/wiki/Wesley_Huntress
+https://en.wikipedia.org/wiki/Space_probe
+https://en.wikipedia.org/wiki/List_of_Puerto_Ricans_in_the_United_States_Space_Program
+https://en.wikipedia.org/wiki/NASA's_2022_satellite
+https://en.wikipedia.org/wiki/Human_mission_to_Mars
+https://en.wikipedia.org/wiki/B612_Foundation
+https://en.wikipedia.org/wiki/Space_exploration
+https://en.wikipedia.org/wiki/Mars_Direct
+
+
+
+ID	39
+Event	
+Event model	prisoner(0.035) abu(0.033) soldier(0.025) ghraib(0.022) naked(0.022) insurgent(0.022) zarqawi(0.021) court(0.019) mistreatment(0.018) abuse(0.017)
+Estimated dates	01/17/2004,05/12/2004,09/06/2004
+Estimated duration	232
+Google query	https://www.google.com/search?q=+prisoner+abu+soldier+ghraib+naked+insurgent+zarqawi+court+mistreatment+abuse
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Iraq_prison_abuse_scandals
+https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse
+https://en.wikipedia.org/wiki/Charles_Graner
+https://en.wikipedia.org/wiki/Megan_Ambuhl
+https://en.wikipedia.org/wiki/Ricardo_M._Urbina
+https://en.wikipedia.org/wiki/Taguba_Report
+https://en.wikipedia.org/wiki/Steven_L._Jordan
+https://en.wikipedia.org/wiki/Battle_of_Abu_Ghraib
+https://en.wikipedia.org/wiki/Emad_al-Janabi
+https://en.wikipedia.org/wiki/Lynndie_England
+
+
+
+ID	40
+Event	
+Event model	politics(0.029) bush(0.014) appreciative(0.011) government(0.011) harkin(0.011) psychiatric(0.01) debate(0.01) caucus(0.01) cheney(0.009) record(0.009)
+Estimated dates	06/16/2004,09/27/2004,01/08/2005
+Estimated duration	206
+Google query	https://www.google.com/search?q=+politics+bush+appreciative+government+harkin+psychiatric+debate+caucus+cheney+record
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/John_Kerry
+https://en.wikipedia.org/wiki/Howard_Dean
+https://en.wikipedia.org/wiki/United_States_presidential_election,_1992
+https://en.wikipedia.org/wiki/FactCheck.org
+https://en.wikipedia.org/wiki/Donna_Edwards
+https://en.wikipedia.org/wiki/Art,_Truth_and_Politics
+https://en.wikipedia.org/wiki/Howard_Dean_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/Mary_Cheney
+https://en.wikipedia.org/wiki/Dennis_Kucinich
+https://en.wikipedia.org/wiki/Michael_E._Toner
+
+
+
+ID	41
+Event	
+Event model	tad(0.032) devine(0.024) rove(0.017) missouri(0.015) pollster(0.015) swing(0.014) gore(0.013) borrow(0.013) nominee(0.013) poll(0.013)
+Estimated dates	06/01/2004,09/17/2004,01/02/2005
+Estimated duration	215
+Google query	https://www.google.com/search?q=+tad+devine+rove+missouri+pollster+swing+gore+borrow+nominee+poll
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Tad_Devine
+https://en.wikipedia.org/wiki/Chip_Smith
+https://en.wikipedia.org/wiki/Thomas_"Tad"_A._Devine
+https://en.wikipedia.org/wiki/Andy_Devine
+https://en.wikipedia.org/wiki/The_7th_Guest
+https://en.wikipedia.org/wiki/Tad_Dennis
+https://en.wikipedia.org/wiki/Regarding_the_Fountain
+https://en.wikipedia.org/wiki/Trilobyte
+https://en.wikipedia.org/wiki/Bill_Clinton_presidential_campaign,_1992
+https://en.wikipedia.org/wiki/Tad_Gormley_Stadium
+
+
+
+ID	42
+Event	
+Event model	area(0.02) relief(0.02) coast(0.018) boat(0.017) disaster(0.016) island(0.015) government(0.015) debris(0.015) care(0.015) reach(0.015)
+Estimated dates	10/04/2003,02/15/2004,06/27/2004
+Estimated duration	267
+Google query	https://www.google.com/search?q=+area+relief+coast+boat+disaster+island+government+debris+care+reach
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Effect_of_the_2004_Indian_Ocean_earthquake_on_Indonesia
+https://en.wikipedia.org/wiki/Typhoon_Haiyan
+https://en.wikipedia.org/wiki/Effects_of_the_2013_Pacific_typhoon_season_in_the_Philippines
+https://en.wikipedia.org/wiki/Typhoon_Bopha
+https://en.wikipedia.org/wiki/Hurricane_Iselle_(2014)
+https://en.wikipedia.org/wiki/Hurricane_Gabrielle_(2001)
+https://en.wikipedia.org/wiki/Hurricane_Ike
+https://en.wikipedia.org/wiki/Hurricane_Katrina_disaster_relief
+https://en.wikipedia.org/wiki/Hurricane_Earl_(2010)
+https://en.wikipedia.org/wiki/Humanitarian_response_by_national_governments_to_the_2010_Haiti_earthquake
+
+
+
+ID	43
+Event	
+Event model	sudan(0.046) sudanese(0.04) darfur(0.037) khartoum(0.029) genocide(0.025) militia(0.024) danforth(0.016) envoy(0.015) rebel(0.012) council(0.012)
+Estimated dates	06/12/2004,10/27/2004,03/12/2005
+Estimated duration	273
+Google query	https://www.google.com/search?q=+sudan+sudanese+darfur+khartoum+genocide+militia+danforth+envoy+rebel+council
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/International_response_to_the_War_in_Darfur
+https://en.wikipedia.org/wiki/War_in_Darfur
+https://en.wikipedia.org/wiki/Omar_al-Bashir
+https://en.wikipedia.org/wiki/CIA_activities_in_Sudan
+https://en.wikipedia.org/wiki/History_of_Darfur
+https://en.wikipedia.org/wiki/Save_Darfur_Coalition
+https://en.wikipedia.org/wiki/Sudan–United_States_relations
+https://en.wikipedia.org/wiki/Musa_Hilal
+https://en.wikipedia.org/wiki/Genocide_Intervention_Network
+https://en.wikipedia.org/wiki/2008_attack_on_Omdurman_and_Khartoum
+
+
+
+ID	44
+Event	
+Event model	allawi(0.024) micah(0.021) ayad(0.018) sadr(0.014) kufa(0.014) ukraine(0.012) najaf(0.012) holiest(0.012) shrine(0.011) blistering(0.011)
+Estimated dates	03/25/2004,08/21/2004,01/17/2005
+Estimated duration	298
+Google query	https://www.google.com/search?q=+allawi+micah+ayad+sadr+kufa+ukraine+najaf+holiest+shrine+blistering
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Ayad_Allawi
+https://en.wikipedia.org/wiki/2010_Iraqi_government_formation
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Iraqi_Interim_Government
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–06)
+https://en.wikipedia.org/wiki/Wolf_Brigade_(Iraq)
+https://en.wikipedia.org/wiki/Ministry_of_Interior_(Iraq)
+https://en.wikipedia.org/wiki/Iyad_Jamal_Al-Din
+https://en.wikipedia.org/wiki/Ghazi_Mashal_Ajil_al-Yawer
+https://en.wikipedia.org/wiki/1st_Division_(Iraq)
+
+
+
+ID	45
+Event	
+Event model	malbrunot(0.037) chesnot(0.028) hostage(0.025) release(0.024) militant(0.018) al(0.016) war(0.015) occupation(0.014) reach(0.014) baghdad(0.014)
+Estimated dates	12/18/2003,04/12/2004,08/06/2004
+Estimated duration	231
+Google query	https://www.google.com/search?q=+malbrunot+chesnot+hostage+release+militant+al+war+occupation+reach+baghdad
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Didier_Julia
+https://en.wikipedia.org/wiki/Nadhmi_Auchi
+https://en.wikipedia.org/wiki/Fallujah
+https://en.wikipedia.org/wiki/Islam_in_France
+https://en.wikipedia.org/wiki/Abdel-Sattar_Abdel-Jabbar
+https://en.wikipedia.org/wiki/Nasser_al-Bahri
+https://en.wikipedia.org/wiki/Frédéric_Nérac
+https://en.wikipedia.org/wiki/Thin_Man_Press
+https://en.wikipedia.org/wiki/Jill_Carroll
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2004
+
+
+
+ID	46
+Event	
+Event model	influenza(0.049) flu(0.048) vaccine(0.036) virus(0.029) h5n1(0.027) asia(0.021) vietnam(0.021) avian(0.02) chiron(0.02) dr(0.016)
+Estimated dates	11/08/2003,01/31/2004,04/24/2004
+Estimated duration	168
+Google query	https://www.google.com/search?q=+influenza+flu+vaccine+virus+h5n1+asia+vietnam+avian+chiron+dr
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Influenza_research
+https://en.wikipedia.org/wiki/Influenza_pandemic
+https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H5N1
+https://en.wikipedia.org/wiki/Avian_influenza
+https://en.wikipedia.org/wiki/Fujian_flu
+https://en.wikipedia.org/wiki/Transmission_and_infection_of_H5N1
+https://en.wikipedia.org/wiki/Human_mortality_from_H5N1
+https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H3N2
+https://en.wikipedia.org/wiki/Influenza_vaccine
+https://en.wikipedia.org/wiki/Pandemic_H1N1/09_virus
+
+
+
+ID	47
+Event	
+Event model	civilian(0.023) sovereignty(0.022) transfer(0.02) governing(0.016) iii(0.015) saddam(0.014) 2005(0.014) flight(0.014) related(0.014) gathering(0.014)
+Estimated dates	01/28/2004,06/07/2004,10/16/2004
+Estimated duration	262
+Google query	https://www.google.com/search?q=+civilian+sovereignty+transfer+governing+iii+saddam+2005+flight+related+gathering
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/De-Ba'athification
+https://en.wikipedia.org/wiki/Ayad_Allawi
+https://en.wikipedia.org/wiki/Iraqi_sovereignty
+https://en.wikipedia.org/wiki/Iraqi_Governing_Council
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–06)
+https://en.wikipedia.org/wiki/Iraqi_National_Congress
+https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Macedonia
+https://en.wikipedia.org/wiki/International_law_and_Israeli_settlements
+https://en.wikipedia.org/wiki/Ghazi_Mashal_Ajil_al-Yawer
+
+
+
+ID	48
+Event	
+Event model	centrifuge(0.042) libya(0.038) khan(0.035) atomic(0.031) middlemen(0.03) tahir(0.023) scientist(0.023) sri(0.021) tehran(0.021) china(0.019)
+Estimated dates	09/08/2003,02/13/2004,07/21/2004
+Estimated duration	316
+Google query	https://www.google.com/search?q=+centrifuge+libya+khan+atomic+middlemen+tahir+scientist+sri+tehran+china
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Abdul_Qadeer_Khan
+https://en.wikipedia.org/wiki/Friedrich_Tinner
+https://en.wikipedia.org/wiki/Project-706
+https://en.wikipedia.org/wiki/Scomi_Precision_Engineering_nuclear_scandal
+https://en.wikipedia.org/wiki/Libya_and_weapons_of_mass_destruction
+https://en.wikipedia.org/wiki/Pakistan_and_weapons_of_mass_destruction
+https://en.wikipedia.org/wiki/Anwar_Ali_(scientist)
+https://en.wikipedia.org/wiki/Disarmament_of_Libya
+https://en.wikipedia.org/wiki/Khan_Research_Laboratories
+https://en.wikipedia.org/wiki/Ghulam_Dastagir_Alam
+
+
+
+ID	49
+Event	
+Event model	vietnam(0.037) antiwar(0.029) boat(0.029) 527(0.027) swift(0.026) madison(0.017) kerry(0.016) mccain(0.016) carlton(0.015) bronze(0.015)
+Estimated dates	02/06/2004,09/02/2004,03/29/2005
+Estimated duration	416
+Google query	https://www.google.com/search?q=+vietnam+antiwar+boat+527+swift+madison+kerry+mccain+carlton+bronze
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Bud_Day
+https://en.wikipedia.org/wiki/Swiftboating
+https://en.wikipedia.org/wiki/Swift_Vets_and_POWs_for_Truth
+https://en.wikipedia.org/wiki/John_Kerry
+https://en.wikipedia.org/wiki/Military_career_of_John_Kerry
+https://en.wikipedia.org/wiki/John_Kerry_military_service_controversy
+https://en.wikipedia.org/wiki/James_Rassman
+https://en.wikipedia.org/wiki/Swift_Boat_challenge
+https://en.wikipedia.org/wiki/John_O'Neill_(political_activist)
+https://en.wikipedia.org/wiki/Patrol_Craft_Fast
+
+
+

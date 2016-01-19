@@ -1,0 +1,1100 @@
+ID	1 (55=0.9155171886056138)
+Event	
+Event model	edwards(0.048) dean(0.048) campaign(0.043) dr(0.034) kerry(0.025) candidate(0.024) s(0.018) iowa(0.018) primary(0.016) clark(0.016)
+Google query	https://www.google.com/search?q=+edwards+dean+campaign+dr+kerry+candidate+s+iowa+primary+clark
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/Howard_Dean_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/John_Edwards_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/Iowa_Democratic_caucuses,_2004
+https://en.wikipedia.org/wiki/John_Edwards
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_New_Hampshire,_2004
+https://en.wikipedia.org/wiki/Howard_Dean
+https://en.wikipedia.org/wiki/California_Democratic_primary,_2004
+https://en.wikipedia.org/wiki/John_Kerry_presidential_campaign,_2004
+
+
+
+ID	2 (26=0.7500380164874451)
+Event	
+Event model	prisoner(0.034) military(0.033) abuse(0.026) detainee(0.025) interrogate(0.023) iraq(0.023) prison(0.021) abu(0.018) ghraib(0.018) america(0.013)
+Google query	https://www.google.com/search?q=+prisoner+military+abuse+detainee+interrogate+iraq+prison+abu+ghraib+america
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse
+https://en.wikipedia.org/wiki/Iraq_prison_abuse_scandals
+https://en.wikipedia.org/wiki/Ricardo_Sanchez
+https://en.wikipedia.org/wiki/Charles_Graner
+https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques
+https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp
+https://en.wikipedia.org/wiki/Taguba_Report
+https://en.wikipedia.org/wiki/Abu_Ghraib_prison
+https://en.wikipedia.org/wiki/Bagram_torture_and_prisoner_abuse
+https://en.wikipedia.org/wiki/Camp_Bucca
+
+
+
+ID	3 (94=0.7407283041582194)
+Event	
+Event model	kerry(0.135) bush(0.071) campaign(0.046) s(0.038) president(0.028) john(0.018) senator(0.016) cheney(0.013) republican(0.012) democrat(0.011)
+Google query	https://www.google.com/search?q=+kerry+bush+campaign+s+president+john+senator+cheney+republican+democrat
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/John_Kerry_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/George_W._Bush_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2004
+https://en.wikipedia.org/wiki/Swift_Vets_and_POWs_for_Truth
+https://en.wikipedia.org/wiki/John_Kerry
+https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2004
+https://en.wikipedia.org/wiki/2004_Republican_National_Convention
+https://en.wikipedia.org/wiki/United_States_presidential_election_debates,_2004
+https://en.wikipedia.org/wiki/Howard_Dean_presidential_campaign,_2004
+https://en.wikipedia.org/wiki/2004_Democratic_National_Convention
+
+
+
+ID	4 (90=0.6948267854167999)
+Event	
+Event model	haiti(0.049) aristide(0.037) government(0.022) cuba(0.018) s(0.015) president(0.014) rebel(0.013) chile(0.013) zimbabwe(0.012) country(0.011)
+Google query	https://www.google.com/search?q=+haiti+aristide+government+cuba+s+president+rebel+chile+zimbabwe+country
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide
+https://en.wikipedia.org/wiki/2004_Haitian_coup_d'état
+https://en.wikipedia.org/wiki/Haiti–United_States_relations
+https://en.wikipedia.org/wiki/History_of_Haiti
+https://en.wikipedia.org/wiki/An_Unbroken_Agony
+https://en.wikipedia.org/wiki/Haiti
+https://en.wikipedia.org/wiki/Haitian_general_election,_2006
+https://en.wikipedia.org/wiki/Canada–Haiti_relations
+https://en.wikipedia.org/wiki/United_Nations_Mission_in_Haiti
+https://en.wikipedia.org/wiki/Émile_Jonassaint
+
+
+
+ID	5 (59=0.6819169419584471)
+Event	
+Event model	vote(0.077) election(0.059) voter(0.057) percent(0.03) poll(0.027) ballot(0.022) party(0.021) candidate(0.018) republican(0.016) democratic(0.015)
+Google query	https://www.google.com/search?q=+vote+election+voter+percent+poll+ballot+party+candidate+republican+democratic
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/United_States_presidential_election
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_Iowa,_2008
+https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections_in_Florida,_2008
+https://en.wikipedia.org/wiki/Electoral_system_of_Germany
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2008
+https://en.wikipedia.org/wiki/Washington_gubernatorial_election,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election,_1996
+https://en.wikipedia.org/wiki/Bradley_effect
+https://en.wikipedia.org/wiki/Vote_pairing
+https://en.wikipedia.org/wiki/United_States_presidential_election,_1972
+
+
+
+ID	6 (48=0.6768011926826752)
+Event	
+Event model	marriage(0.094) gay(0.064) sex(0.041) amendment(0.031) couple(0.03) state(0.025) issue(0.018) rights(0.016) massachusetts(0.016) union(0.014)
+Google query	https://www.google.com/search?q=+marriage+gay+sex+amendment+couple+state+issue+rights+massachusetts+union
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Same-sex_marriage_in_Massachusetts
+https://en.wikipedia.org/wiki/Status_of_same-sex_marriage
+https://en.wikipedia.org/wiki/History_of_same-sex_marriage_in_the_United_States
+https://en.wikipedia.org/wiki/Same-sex_marriage
+https://en.wikipedia.org/wiki/History_of_gay_men_in_the_United_States
+https://en.wikipedia.org/wiki/Religious_views_on_same-sex_marriage
+https://en.wikipedia.org/wiki/Same-sex_marriage_in_Mexico
+https://en.wikipedia.org/wiki/History_of_lesbianism_in_the_United_States
+https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_United_Kingdom
+https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_United_States
+
+
+
+ID	7 (45=0.6750944369167663)
+Event	
+Event model	sadr(0.08) shiite(0.049) america(0.044) s(0.034) najaf(0.032) clerical(0.024) city(0.024) militia(0.021) shrine(0.018) army(0.018)
+Google query	https://www.google.com/search?q=+sadr+shiite+america+s+najaf+clerical+city+militia+shrine+army
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Peace_Companies
+https://en.wikipedia.org/wiki/Muqtada_al-Sadr
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–06)
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2004
+https://en.wikipedia.org/wiki/2006_al-Askari_Mosque_bombing
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2008
+https://en.wikipedia.org/wiki/Mohammad_Mohammad_Sadeq_al-Sadr
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Sadrist_Movement
+https://en.wikipedia.org/wiki/Siege_of_Sadr_City
+
+
+
+ID	8 (71=0.6627454561426929)
+Event	
+Event model	iran(0.063) nuclear(0.063) weapon(0.036) program(0.025) s(0.018) uranium(0.017) agency(0.016) dr(0.014) enrich(0.013) official(0.011)
+Google query	https://www.google.com/search?q=+iran+nuclear+weapon+program+s+uranium+agency+dr+enrich+official
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Iran_and_weapons_of_mass_destruction
+https://en.wikipedia.org/wiki/Nuclear_program_of_Iran
+https://en.wikipedia.org/wiki/Views_on_the_nuclear_program_of_Iran
+https://en.wikipedia.org/wiki/Negotiations_leading_to_the_Joint_Comprehensive_Plan_of_Action
+https://en.wikipedia.org/wiki/Timeline_of_the_nuclear_program_of_Iran
+https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons
+https://en.wikipedia.org/wiki/Nuclear_activities_in_Brazil
+https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action
+https://en.wikipedia.org/wiki/Joint_Plan_of_Action
+https://en.wikipedia.org/wiki/Nuclear_proliferation
+
+
+
+ID	9 (57=0.6196732193077354)
+Event	
+Event model	state(0.067) states(0.057) ohio(0.024) new(0.019) south(0.018) national(0.016) michigan(0.015) virginia(0.015) wisconsin(0.014) carolina(0.013)
+Google query	https://www.google.com/search?q=+state+states+ohio+new+south+national+michigan+virginia+wisconsin+carolina
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/List_of_state_applications_for_an_Article_V_Convention
+https://en.wikipedia.org/wiki/Nullification_(U.S._Constitution)
+https://en.wikipedia.org/wiki/Common_Core_implementation_by_state
+https://en.wikipedia.org/wiki/List_of_former_United_States_district_courts
+https://en.wikipedia.org/wiki/U.S._state_reptiles
+https://en.wikipedia.org/wiki/Accessibility_of_United_States_state_law
+https://en.wikipedia.org/wiki/Concealed_carry_in_the_United_States
+https://en.wikipedia.org/wiki/History_of_same-sex_marriage_in_the_United_States
+https://en.wikipedia.org/wiki/List_of_conventions_affiliated_with_the_National_Baptist_Convention
+https://en.wikipedia.org/wiki/Cities_and_counties_in_the_United_States_offering_a_domestic_partnership_registry
+
+
+
+ID	10 (92=0.606584977588399)
+Event	
+Event model	iraq(0.07) america(0.062) insurgent(0.031) falluja(0.022) baghdad(0.022) city(0.018) military(0.017) forces(0.015) soldier(0.014) marine(0.013)
+Google query	https://www.google.com/search?q=+iraq+america+insurgent+falluja+baghdad+city+military+forces+soldier+marine
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/American-led_intervention_in_Iraq_(2014–present)
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2004
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–11)
+https://en.wikipedia.org/wiki/Casualties_of_the_Iraq_War
+https://en.wikipedia.org/wiki/List_of_coalition_military_operations_of_the_Iraq_War
+https://en.wikipedia.org/wiki/Iraq_War_in_Anbar_Province
+https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi
+https://en.wikipedia.org/wiki/Anbar_campaign_(2013–14)
+https://en.wikipedia.org/wiki/Diyala_campaign
+https://en.wikipedia.org/wiki/Siege_of_Sadr_City
+
+
+
+ID	11 (31=0.5958875611419463)
+Event	
+Event model	hurricane(0.038) storm(0.031) florida(0.027) county(0.014) home(0.013) damage(0.013) state(0.012) people(0.011) beach(0.011) s(0.01)
+Google query	https://www.google.com/search?q=+hurricane+storm+florida+county+home+damage+state+people+beach+s
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Effects_of_Hurricane_Isaac_in_Florida
+https://en.wikipedia.org/wiki/Effects_of_Hurricane_Katrina_in_Florida
+https://en.wikipedia.org/wiki/Effects_of_Hurricane_Andrew_in_Florida
+https://en.wikipedia.org/wiki/Hurricane_Elena
+https://en.wikipedia.org/wiki/Hurricane_Andrew
+https://en.wikipedia.org/wiki/Hurricane_Charley
+https://en.wikipedia.org/wiki/Hurricane_Frances
+https://en.wikipedia.org/wiki/Hurricane_Earl_(1998)
+https://en.wikipedia.org/wiki/Effects_of_Hurricane_Dennis_in_Florida
+https://en.wikipedia.org/wiki/Hurricane_Donna
+
+
+
+ID	12 (89=0.5727340116622133)
+Event	
+Event model	health(0.033) vaccine(0.026) aids(0.023) h(0.021) virus(0.018) disease(0.018) dr(0.018) flu(0.016) v(0.015) people(0.012)
+Google query	https://www.google.com/search?q=+health+vaccine+aids+h+virus+disease+dr+flu+v+people
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Influenza_pandemic
+https://en.wikipedia.org/wiki/Live_attenuated_influenza_vaccine
+https://en.wikipedia.org/wiki/Fujian_flu
+https://en.wikipedia.org/wiki/Influenza
+https://en.wikipedia.org/wiki/Jonas_Salk
+https://en.wikipedia.org/wiki/Influenza_vaccine
+https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H3N2
+https://en.wikipedia.org/wiki/2009_flu_pandemic_in_Asia
+https://en.wikipedia.org/wiki/Pandemic
+https://en.wikipedia.org/wiki/Chang_Yi_Wang
+
+
+
+ID	13 (78=0.5596606568525692)
+Event	
+Event model	s(0.029) museum(0.02) memorial(0.014) site(0.011) history(0.01) years(0.01) king(0.01) th(0.009) funeral(0.009) century(0.008)
+Google query	https://www.google.com/search?q=+s+museum+memorial+site+history+years+king+th+funeral+century
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Canadian_Museum_of_Immigration_at_Pier_21
+https://en.wikipedia.org/wiki/Gerald_R._Ford_Presidential_Museum
+https://en.wikipedia.org/wiki/National_September_11_Memorial_&_Museum
+https://en.wikipedia.org/wiki/North_Carolina_Museum_of_Art
+https://en.wikipedia.org/wiki/Birmingham_Museum_of_Art
+https://en.wikipedia.org/wiki/Garden_Museum
+https://en.wikipedia.org/wiki/Museum
+https://en.wikipedia.org/wiki/National_Museum_of_History_of_Moldova
+https://en.wikipedia.org/wiki/Oyster_Bay_History_Walk
+https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya
+
+
+
+ID	14 (38=0.5549728765104298)
+Event	
+Event model	commission(0.066) house(0.039) white(0.037) bush(0.028) s(0.027) president(0.026) rice(0.022) administration(0.021) panel(0.017) sept(0.016)
+Google query	https://www.google.com/search?q=+commission+house+white+bush+s+president+rice+administration+panel+sept
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Criticism_of_the_9/11_Commission
+https://en.wikipedia.org/wiki/Jersey_Girls
+https://en.wikipedia.org/wiki/Richard_A._Clarke
+https://en.wikipedia.org/wiki/White_House_Initiative_on_Asian_Americans_and_Pacific_Islanders
+https://en.wikipedia.org/wiki/White_House_Initiative_on_Educational_Excellence_for_Hispanics
+https://en.wikipedia.org/wiki/9/11_Commission
+https://en.wikipedia.org/wiki/United_States_Commission_on_Civil_Rights
+https://en.wikipedia.org/wiki/Henry_Lozano
+https://en.wikipedia.org/wiki/Philip_D._Zelikow
+https://en.wikipedia.org/wiki/John_B._Bellinger_III
+
+
+
+ID	15 (58=0.5427853333455154)
+Event	
+Event model	russia(0.12) putin(0.046) s(0.04) soviet(0.024) moscow(0.023) chechnya(0.017) chechen(0.016) president(0.012) kremlin(0.012) khodorkovsky(0.01)
+Google query	https://www.google.com/search?q=+russia+putin+s+soviet+moscow+chechnya+chechen+president+kremlin+khodorkovsky
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Vladimir_Putin
+https://en.wikipedia.org/wiki/Political_career_of_Vladimir_Putin
+https://en.wikipedia.org/wiki/History_of_Russia_(1992–present)
+https://en.wikipedia.org/wiki/Foreign_policy_of_Vladimir_Putin
+https://en.wikipedia.org/wiki/Boris_Berezovsky_(businessman)
+https://en.wikipedia.org/wiki/Putinism
+https://en.wikipedia.org/wiki/Second_Chechen_War
+https://en.wikipedia.org/wiki/Russian_legislative_election,_2007
+https://en.wikipedia.org/wiki/Gennady_Gudkov
+https://en.wikipedia.org/wiki/List_of_journalists_killed_in_Russia
+
+
+
+ID	16 (35=0.5400607932133439)
+Event	
+Event model	security(0.054) f(0.034) b(0.033) official(0.028) terrorist(0.023) threat(0.022) department(0.021) attack(0.02) homeland(0.014) terrorism(0.013)
+Google query	https://www.google.com/search?q=+security+f+b+official+terrorist+threat+department+attack+homeland+terrorism
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Homeland_Security_Advisory_System
+https://en.wikipedia.org/wiki/United_States_border_security_concerns
+https://en.wikipedia.org/wiki/020413_DOJ_White_Paper
+https://en.wikipedia.org/wiki/Counter-intelligence_and_counter-terrorism_organizations
+https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security
+https://en.wikipedia.org/wiki/Homeland_Security_Act
+https://en.wikipedia.org/wiki/Nuclear_terrorism
+https://en.wikipedia.org/wiki/Federal_Protective_Service_(United_States)
+https://en.wikipedia.org/wiki/Port_security
+https://en.wikipedia.org/wiki/Alabama_Department_of_Homeland_Security
+
+
+
+ID	17 (61=0.5285360842247198)
+Event	
+Event model	s(0.059) t(0.056) people(0.029) re(0.025) go(0.023) don(0.022) think(0.02) know(0.018) say(0.018) ve(0.017)
+Google query	https://www.google.com/search?q=+s+t+people+re+go+don+think+know+say+ve
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/List_of_Agents_of_S.H.I.E.L.D._characters
+https://en.wikipedia.org/wiki/The_Naughtiest_Girl_Again
+https://en.wikipedia.org/wiki/You_Got_to_Move
+https://en.wikipedia.org/wiki/Midwinter_Graces
+https://en.wikipedia.org/wiki/Lorelai's_First_Cotillion
+https://en.wikipedia.org/wiki/Peace_Out
+https://en.wikipedia.org/wiki/Derek_Raymond
+https://en.wikipedia.org/wiki/The_Paz_Show
+https://en.wikipedia.org/wiki/José_Luis_Chilavert
+https://en.wikipedia.org/wiki/The_Naughtiest_Girl_is_a_Monitor
+
+
+
+ID	18 (99=0.48980180744834106)
+Event	
+Event model	iraq(0.126) america(0.026) government(0.025) election(0.018) council(0.016) shiite(0.015) hussein(0.014) sunni(0.012) official(0.012) baghdad(0.011)
+Google query	https://www.google.com/search?q=+iraq+america+government+election+council+shiite+hussein+sunni+official+baghdad
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Iraqi_insurgency_(2003–11)
+https://en.wikipedia.org/wiki/Iraq_War
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/History_of_Iraq
+https://en.wikipedia.org/wiki/Saddam_Hussein
+https://en.wikipedia.org/wiki/Islamic_Supreme_Council_of_Iraq
+https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi
+https://en.wikipedia.org/wiki/Islamic_State_of_Iraq
+https://en.wikipedia.org/wiki/Iraq
+https://en.wikipedia.org/wiki/U.S.–Iraq_Status_of_Forces_Agreement
+
+
+
+ID	19 (82=0.4753331637889865)
+Event	
+Event model	election(0.037) protest(0.032) ukraine(0.029) s(0.024) yushchenko(0.021) opposition(0.02) ch(0.019) vez(0.019) government(0.017) president(0.016)
+Google query	https://www.google.com/search?q=+election+protest+ukraine+s+yushchenko+opposition+ch+vez+government+president
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Orange_Revolution
+https://en.wikipedia.org/wiki/Timeline_of_the_Orange_Revolution
+https://en.wikipedia.org/wiki/Oleksandr_Tretiakov
+https://en.wikipedia.org/wiki/Ukrainian_presidential_election,_2004
+https://en.wikipedia.org/wiki/Yulia_Tymoshenko
+https://en.wikipedia.org/wiki/Viktor_Yanukovych
+https://en.wikipedia.org/wiki/Ukrainian_parliamentary_election,_2006
+https://en.wikipedia.org/wiki/Ukraine_without_Kuchma
+https://en.wikipedia.org/wiki/Ukrainian_local_elections,_2010
+https://en.wikipedia.org/wiki/2008_Ukrainian_political_crisis
+
+
+
+ID	20 (84=0.4619641734978639)
+Event	
+Event model	dr(0.036) scientist(0.018) s(0.015) earth(0.011) planet(0.009) rover(0.009) laboratory(0.008) mars(0.007) water(0.007) years(0.007)
+Google query	https://www.google.com/search?q=+dr+scientist+s+earth+planet+rover+laboratory+mars+water+years
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/B612_Foundation
+https://en.wikipedia.org/wiki/List_of_Astro_Boy_characters
+https://en.wikipedia.org/wiki/Gerald_Soffen
+https://en.wikipedia.org/wiki/List_of_Duck_Dodgers_characters
+https://en.wikipedia.org/wiki/Space_Pioneer_Awards
+https://en.wikipedia.org/wiki/Red_Star_(novel)
+https://en.wikipedia.org/wiki/Scientific_information_from_the_Mars_Exploration_Rover_mission
+https://en.wikipedia.org/wiki/The_Ring_of_Charon
+https://en.wikipedia.org/wiki/Philip_K._Chapman
+https://en.wikipedia.org/wiki/Lastikman
+
+
+
+ID	21 (4=0.4589057874576669)
+Event	
+Event model	war(0.051) veteran(0.049) vietnam(0.049) s(0.028) guard(0.021) service(0.019) record(0.017) boat(0.017) swift(0.013) military(0.012)
+Google query	https://www.google.com/search?q=+war+veteran+vietnam+s+guard+service+record+boat+swift+military
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Vietnam_Center_and_Archive
+https://en.wikipedia.org/wiki/Vietnam_veteran
+https://en.wikipedia.org/wiki/Swift_Vets_and_POWs_for_Truth
+https://en.wikipedia.org/wiki/Richard_A._Stratton
+https://en.wikipedia.org/wiki/Stolen_Valor
+https://en.wikipedia.org/wiki/David_Hackworth
+https://en.wikipedia.org/wiki/Winter_Soldier_Investigation
+https://en.wikipedia.org/wiki/G.I._Bill
+https://en.wikipedia.org/wiki/Military_Order_of_Foreign_Wars
+https://en.wikipedia.org/wiki/Pierre_Schoendoerffer
+
+
+
+ID	22 (5=0.4366952226462617)
+Event	
+Event model	iraq(0.146) war(0.072) bush(0.033) america(0.027) hussein(0.024) weapon(0.02) administration(0.019) saddam(0.018) troops(0.015) terrorist(0.012)
+Google query	https://www.google.com/search?q=+iraq+war+bush+america+hussein+weapon+administration+saddam+troops+terrorist
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Rationale_for_the_Iraq_War
+https://en.wikipedia.org/wiki/Legitimacy_of_the_2003_invasion_of_Iraq
+https://en.wikipedia.org/wiki/Governmental_positions_on_the_Iraq_War_prior_to_the_2003_invasion_of_Iraq
+https://en.wikipedia.org/wiki/Opposition_to_the_Iraq_War
+https://en.wikipedia.org/wiki/Iraq_War
+https://en.wikipedia.org/wiki/Iraq_and_weapons_of_mass_destruction
+https://en.wikipedia.org/wiki/2003_invasion_of_Iraq
+https://en.wikipedia.org/wiki/George_W._Bush_and_the_Iraq_War
+https://en.wikipedia.org/wiki/Saddam_Hussein
+https://en.wikipedia.org/wiki/Iraq_War_and_the_War_on_Terror
+
+
+
+ID	23 (56=0.4313753752178137)
+Event	
+Event model	news(0.056) television(0.025) media(0.023) cbs(0.02) newspaper(0.02) network(0.019) broadcast(0.019) station(0.015) editor(0.014) journalist(0.013)
+Google query	https://www.google.com/search?q=+news+television+media+cbs+newspaper+network+broadcast+station+editor+journalist
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/CBS_News
+https://en.wikipedia.org/wiki/Katie_Couric
+https://en.wikipedia.org/wiki/ABC_World_News_Tonight
+https://en.wikipedia.org/wiki/News_broadcasting
+https://en.wikipedia.org/wiki/News
+https://en.wikipedia.org/wiki/Dan_Rather
+https://en.wikipedia.org/wiki/Television_news_in_the_United_States
+https://en.wikipedia.org/wiki/News_media_in_the_United_States
+https://en.wikipedia.org/wiki/Network_Ten
+https://en.wikipedia.org/wiki/WCBS-TV
+
+
+
+ID	24 (9=0.42940497677877043)
+Event	
+Event model	space(0.061) nasa(0.034) shuttle(0.026) mission(0.021) station(0.017) flight(0.015) missile(0.015) moon(0.014) launch(0.012) mars(0.012)
+Google query	https://www.google.com/search?q=+space+nasa+shuttle+mission+station+flight+missile+moon+launch+mars
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Marshall_Space_Flight_Center
+https://en.wikipedia.org/wiki/NASA
+https://en.wikipedia.org/wiki/History_of_spaceflight
+https://en.wikipedia.org/wiki/Shuttle–Mir_Program
+https://en.wikipedia.org/wiki/Private_spaceflight
+https://en.wikipedia.org/wiki/STS-129
+https://en.wikipedia.org/wiki/STS-135
+https://en.wikipedia.org/wiki/Space_Shuttle_program
+https://en.wikipedia.org/wiki/Space_policy_of_the_United_States
+https://en.wikipedia.org/wiki/Space_architecture
+
+
+
+ID	25 (86=0.4251326802412138)
+Event	
+Event model	bush(0.148) president(0.101) s(0.041) house(0.038) white(0.037) reagan(0.026) clinton(0.025) administration(0.017) politics(0.015) republican(0.014)
+Google query	https://www.google.com/search?q=+bush+president+s+house+white+reagan+clinton+administration+politics+republican
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/George_H._W._Bush
+https://en.wikipedia.org/wiki/Barbara_Bush
+https://en.wikipedia.org/wiki/Read_my_lips:_no_new_taxes
+https://en.wikipedia.org/wiki/LGBT_conservatism_in_the_United_States
+https://en.wikipedia.org/wiki/White_House_Hanukkah_Party
+https://en.wikipedia.org/wiki/United_States_presidential_election,_1992
+https://en.wikipedia.org/wiki/Palestine–United_States_relations
+https://en.wikipedia.org/wiki/Domestic_policy_of_the_George_W._Bush_administration
+https://en.wikipedia.org/wiki/George_W._Bush
+https://en.wikipedia.org/wiki/Dismissal_of_U.S._attorneys_controversy
+
+
+
+ID	26 (24=0.4203991576056477)
+Event	
+Event model	s(0.043) politics(0.024) issue(0.017) policy(0.015) debate(0.013) say(0.01) view(0.009) question(0.008) public(0.007) think(0.007)
+Google query	https://www.google.com/search?q=+s+politics+issue+policy+debate+say+view+question+public+think
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Post-politics
+https://en.wikipedia.org/wiki/Young_voter_turnout_in_Canada
+https://en.wikipedia.org/wiki/Ian_Shapiro
+https://en.wikipedia.org/wiki/Monarchism_in_Georgia
+https://en.wikipedia.org/wiki/The_Israel_Lobby_and_U.S._Foreign_Policy
+https://en.wikipedia.org/wiki/Roger_Douglas
+https://en.wikipedia.org/wiki/Centre_For_Policy_and_Research_On_Turkey_(Research_Turkey)
+https://en.wikipedia.org/wiki/Public_image_of_Mitt_Romney
+https://en.wikipedia.org/wiki/Howard_H._Baker,_Jr._Center_for_Public_Policy
+https://en.wikipedia.org/wiki/Foreign_policy_of_the_Recep_Tayyip_Erdoğan_government
+
+
+
+ID	27 (66=0.41738042082456617)
+Event	
+Event model	agreement(0.018) plan(0.017) agree(0.013) meeting(0.013) leader(0.012) member(0.011) negotiation(0.01) talks(0.009) negotiate(0.009) issue(0.009)
+Google query	https://www.google.com/search?q=+agreement+plan+agree+meeting+leader+member+negotiation+talks+negotiate+issue
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Annan_Plan_for_Cyprus
+https://en.wikipedia.org/wiki/Cyprus_dispute
+https://en.wikipedia.org/wiki/Israeli–Palestinian_peace_process
+https://en.wikipedia.org/wiki/2010–11_Israeli–Palestinian_peace_talks
+https://en.wikipedia.org/wiki/Moro_National_Liberation_Front
+https://en.wikipedia.org/wiki/Luxembourg_compromise
+https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action
+https://en.wikipedia.org/wiki/Quebec_referendum,_1995
+https://en.wikipedia.org/wiki/Future_enlargement_of_the_European_Union
+https://en.wikipedia.org/wiki/Negotiations_leading_to_the_Joint_Comprehensive_Plan_of_Action
+
+
+
+ID	28 (36=0.41140615917665907)
+Event	
+Event model	job(0.071) worker(0.06) union(0.034) labor(0.03) work(0.025) trade(0.022) america(0.016) pay(0.013) pension(0.012) economy(0.012)
+Google query	https://www.google.com/search?q=+job+worker+union+labor+work+trade+america+pay+pension+economy
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Unemployment_in_the_United_States
+https://en.wikipedia.org/wiki/Union_busting
+https://en.wikipedia.org/wiki/Labor_unions_in_the_United_States
+https://en.wikipedia.org/wiki/Discouraged_worker
+https://en.wikipedia.org/wiki/Union_wage_premium
+https://en.wikipedia.org/wiki/Job_analysis
+https://en.wikipedia.org/wiki/James_P._Hoffa
+https://en.wikipedia.org/wiki/Trade_Adjustment_Assistance
+https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World_philosophy_and_tactics
+https://en.wikipedia.org/wiki/Added_worker_effect
+
+
+
+ID	29 (64=0.39442283154303415)
+Event	
+Event model	s(0.062) call(0.012) monday(0.011) told(0.011) did(0.011) news(0.01) thursday(0.01) wednesday(0.01) tuesday(0.01) made(0.01)
+Google query	https://www.google.com/search?q=+s+call+monday+told+did+news+thursday+wednesday+tuesday+made
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Linden_Hills_Library
+https://en.wikipedia.org/wiki/Moon:_Remix_RPG_Adventure
+https://en.wikipedia.org/wiki/Curling_at_the_2011_Canada_Winter_Games
+https://en.wikipedia.org/wiki/Preble_County_District_Library
+https://en.wikipedia.org/wiki/2007_Formula_One_espionage_controversy
+https://en.wikipedia.org/wiki/Prime_Time
+https://en.wikipedia.org/wiki/The_Guardian
+https://en.wikipedia.org/wiki/Call_For_Action
+https://en.wikipedia.org/wiki/The_Intellectual_Devotional
+https://en.wikipedia.org/wiki/The_Sonja_Haynes_Stone_Center_for_Black_Culture_and_History
+
+
+
+ID	30 (50=0.389426968049649)
+Event	
+Event model	military(0.055) army(0.042) iraq(0.035) soldier(0.031) troops(0.02) defense(0.017) pentagon(0.016) general(0.016) forces(0.016) force(0.014)
+Google query	https://www.google.com/search?q=+military+army+iraq+soldier+troops+defense+pentagon+general+forces+force
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Iraqi_Army
+https://en.wikipedia.org/wiki/Norman_Schwarzkopf,_Jr.
+https://en.wikipedia.org/wiki/Iraqi_Armed_Forces
+https://en.wikipedia.org/wiki/David_Petraeus
+https://en.wikipedia.org/wiki/Gulf_War
+https://en.wikipedia.org/wiki/Iraq_War
+https://en.wikipedia.org/wiki/Religious_symbolism_in_the_United_States_military
+https://en.wikipedia.org/wiki/History_of_Iraq_(2003–11)
+https://en.wikipedia.org/wiki/Iraq_spring_fighting_of_2008
+https://en.wikipedia.org/wiki/MRAP
+
+
+
+ID	31 (15=0.38882719481727573)
+Event	
+Event model	film(0.046) s(0.027) disney(0.025) movie(0.02) actor(0.013) eisner(0.012) hollywood(0.012) show(0.01) fashion(0.01) movies(0.009)
+Google query	https://www.google.com/search?q=+film+s+disney+movie+actor+eisner+hollywood+show+fashion+movies
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Disney's_Hollywood_Studios
+https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+https://en.wikipedia.org/wiki/Toy_Story
+https://en.wikipedia.org/wiki/Brenda_Song
+https://en.wikipedia.org/wiki/Mockbuster
+https://en.wikipedia.org/wiki/Enchanted_(2007_film)
+https://en.wikipedia.org/wiki/Disney_Renaissance
+https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit
+https://en.wikipedia.org/wiki/Modern_animation_in_the_United_States
+https://en.wikipedia.org/wiki/The_Wizard_of_Oz_on_television
+
+
+
+ID	32 (23=0.3853762082701441)
+Event	
+Event model	official(0.12) administration(0.058) s(0.029) bush(0.028) state(0.025) powell(0.025) secretary(0.023) senior(0.018) department(0.017) say(0.016)
+Google query	https://www.google.com/search?q=+official+administration+s+bush+state+powell+secretary+senior+department+say
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Gallup's_most_admired_man_and_woman_poll
+https://en.wikipedia.org/wiki/Presidential_transition_of_Barack_Obama
+https://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations
+https://en.wikipedia.org/wiki/Plame_affair
+https://en.wikipedia.org/wiki/John_R._Bolton
+https://en.wikipedia.org/wiki/Dick_Cheney
+https://en.wikipedia.org/wiki/Paul_Wolfowitz
+https://en.wikipedia.org/wiki/Official_Secretary_to_the_Governor-General_of_Australia
+https://en.wikipedia.org/wiki/Presidential_portrait_(United_States)
+https://en.wikipedia.org/wiki/Secretary_of_state_(U.S._state_government)
+
+
+
+ID	33 (93=0.38534923553016737)
+Event	
+Event model	tax(0.085) cut(0.034) budget(0.028) spend(0.02) security(0.019) deficit(0.019) social(0.018) bush(0.017) increase(0.016) years(0.014)
+Google query	https://www.google.com/search?q=+tax+cut+budget+spend+security+deficit+social+bush+increase+years
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Deficit_reduction_in_the_United_States
+https://en.wikipedia.org/wiki/Economic_policy_of_the_George_W._Bush_administration
+https://en.wikipedia.org/wiki/Political_debates_about_the_United_States_federal_budget
+https://en.wikipedia.org/wiki/Social_Security_debate_in_the_United_States
+https://en.wikipedia.org/wiki/United_States_federal_budget
+https://en.wikipedia.org/wiki/Bush_tax_cuts
+https://en.wikipedia.org/wiki/Supply-side_economics
+https://en.wikipedia.org/wiki/United_States_fiscal_cliff
+https://en.wikipedia.org/wiki/Fiscal_conservatism
+https://en.wikipedia.org/wiki/Starve_the_beast
+
+
+
+ID	34 (63=0.3650960933027666)
+Event	
+Event model	attack(0.032) kill(0.026) bomb(0.024) two(0.018) group(0.017) official(0.017) police(0.016) report(0.013) people(0.01) killing(0.009)
+Google query	https://www.google.com/search?q=+attack+kill+bomb+two+group+official+police+report+people+killing
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/2007_timeline_of_the_War_in_Somalia
+https://en.wikipedia.org/wiki/2010_Times_Square_car_bombing_attempt
+https://en.wikipedia.org/wiki/List_of_militant_incidents_in_Saudi_Arabia
+https://en.wikipedia.org/wiki/Miami_Showband_killings
+https://en.wikipedia.org/wiki/2011–14_terrorist_attacks_in_Kenya
+https://en.wikipedia.org/wiki/John_Weir_(loyalist)
+https://en.wikipedia.org/wiki/Operation_Wrath_of_God
+https://en.wikipedia.org/wiki/Factional_violence_in_Libya_(2011–14)
+https://en.wikipedia.org/wiki/Riyadh_compound_bombings
+https://en.wikipedia.org/wiki/Terrorism_in_Egypt
+
+
+
+ID	35 (2=0.36287823985455714)
+Event	
+Event model	qaeda(0.049) al(0.047) attack(0.031) bin(0.029) laden(0.025) terrorist(0.024) america(0.02) official(0.017) united(0.017) states(0.016)
+Google query	https://www.google.com/search?q=+qaeda+al+attack+bin+laden+terrorist+america+official+united+states
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Al-Qaeda
+https://en.wikipedia.org/wiki/Osama_bin_Laden
+https://en.wikipedia.org/wiki/Responsibility_for_the_September_11_attacks
+https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi
+https://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations
+https://en.wikipedia.org/wiki/Militant_activity_of_Osama_bin_Laden
+https://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations_timeline
+https://en.wikipedia.org/wiki/September_11_attacks
+https://en.wikipedia.org/wiki/International_counter-terrorism_activities_of_CIA
+https://en.wikipedia.org/wiki/Ayman_al-Zawahiri
+
+
+
+ID	36 (43=0.33564122513023137)
+Event	
+Event model	s(0.039) new(0.036) plan(0.013) time(0.01) two(0.01) long(0.009) change(0.008) years(0.008) effort(0.007) early(0.007)
+Google query	https://www.google.com/search?q=+s+new+plan+time+two+long+change+years+effort+early
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/New_York_State_Energy_Research_and_Development_Authority
+https://en.wikipedia.org/wiki/Rohit_Aggarwala
+https://en.wikipedia.org/wiki/2011_in_British_music_charts
+https://en.wikipedia.org/wiki/S-Bahn_Mitteldeutschland
+https://en.wikipedia.org/wiki/Gregory_Long
+https://en.wikipedia.org/wiki/Marks_&_Spencer
+https://en.wikipedia.org/wiki/Yolanda_Cuomo
+https://en.wikipedia.org/wiki/Sydney_Metro_(2008_proposal)
+https://en.wikipedia.org/wiki/History_of_New_Rochelle,_New_York
+https://en.wikipedia.org/wiki/Norris_Houghton
+
+
+
+ID	37 (88=0.33172820545042025)
+Event	
+Event model	europe(0.11) briefing(0.084) world(0.059) britain(0.052) germany(0.045) national(0.04) blair(0.024) turkey(0.023) union(0.018) nato(0.018)
+Google query	https://www.google.com/search?q=+europe+briefing+world+britain+germany+national+blair+turkey+union+nato
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Michael_Kaser
+https://en.wikipedia.org/wiki/Centre_International_de_Formation_Européenne
+https://en.wikipedia.org/wiki/Nuclear_weapons_and_the_United_Kingdom
+https://en.wikipedia.org/wiki/Quaker_Council_for_European_Affairs
+https://en.wikipedia.org/wiki/Germany–Japan_relations
+https://en.wikipedia.org/wiki/501st_Combat_Support_Wing
+https://en.wikipedia.org/wiki/Coleman_Army_Airfield
+https://en.wikipedia.org/wiki/European_Science_Foundation
+https://en.wikipedia.org/wiki/European_integration
+https://en.wikipedia.org/wiki/Islamic_Human_Rights_Commission
+
+
+
+ID	38 (27=0.33157181542960956)
+Event	
+Event model	ask(0.013) show(0.013) talk(0.01) man(0.009) night(0.009) told(0.009) crowd(0.007) television(0.007) image(0.007) watch(0.006)
+Google query	https://www.google.com/search?q=+ask+show+talk+man+night+told+crowd+television+image+watch
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/List_of_David_Letterman_episodes
+https://en.wikipedia.org/wiki/Tonight_Live_with_Steve_Vizard
+https://en.wikipedia.org/wiki/2010_Tonight_Show_conflict
+https://en.wikipedia.org/wiki/Vic_Reeves_Big_Night_Out
+https://en.wikipedia.org/wiki/The_Jerry_Springer_Show
+https://en.wikipedia.org/wiki/Friday_Night,_Saturday_Morning
+https://en.wikipedia.org/wiki/The_Sunday_Night_Project
+https://en.wikipedia.org/wiki/The_Project_(TV_program)
+https://en.wikipedia.org/wiki/The_Mike_Bullard_Show
+https://en.wikipedia.org/wiki/Cotton_Comes_to_Harlem
+
+
+
+ID	39 (22=0.3252378158365342)
+Event	
+Event model	county(0.051) vote(0.05) state(0.043) machine(0.034) florida(0.029) election(0.029) system(0.016) official(0.016) count(0.015) texas(0.015)
+Google query	https://www.google.com/search?q=+county+vote+state+machine+florida+election+system+official+count+texas
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Florida_election_recount
+https://en.wikipedia.org/wiki/Bush_v._Gore
+https://en.wikipedia.org/wiki/United_States_presidential_election_in_Florida,_2012
+https://en.wikipedia.org/wiki/Washington_gubernatorial_election,_2004
+https://en.wikipedia.org/wiki/United_States_presidential_election,_2000
+https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies
+https://en.wikipedia.org/wiki/Ion_Sancho
+https://en.wikipedia.org/wiki/Electronic_voting
+https://en.wikipedia.org/wiki/United_States_presidential_election,_1876
+https://en.wikipedia.org/wiki/Vote_pairing
+
+
+
+ID	40 (69=0.3245228544646241)
+Event	
+Event model	team(0.033) game(0.021) player(0.019) s(0.018) baseball(0.017) olympic(0.016) games(0.016) yankee(0.014) play(0.013) stadium(0.013)
+Google query	https://www.google.com/search?q=+team+game+player+s+baseball+olympic+games+yankee+play+stadium
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Yankee_Stadium_(1923)
+https://en.wikipedia.org/wiki/New_York_Yankees
+https://en.wikipedia.org/wiki/Yankee_Stadium
+https://en.wikipedia.org/wiki/Ken_Griffey,_Jr._Presents_Major_League_Baseball
+https://en.wikipedia.org/wiki/History_of_the_New_York_Yankees
+https://en.wikipedia.org/wiki/Derek_Jeter
+https://en.wikipedia.org/wiki/Mets–Yankees_rivalry
+https://en.wikipedia.org/wiki/Satchel_Paige
+https://en.wikipedia.org/wiki/Reggie_Jackson
+https://en.wikipedia.org/wiki/Babe_Ruth
+
+
+
+ID	41 (79=0.32043998493707077)
+Event	
+Event model	america(0.055) world(0.027) life(0.013) people(0.011) war(0.011) value(0.011) country(0.01) today(0.01) ed(0.009) op(0.009)
+Google query	https://www.google.com/search?q=+america+world+life+people+war+value+country+today+ed+op
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/American_exceptionalism
+https://en.wikipedia.org/wiki/Joseph_Sohm
+https://en.wikipedia.org/wiki/Grand_Director
+https://en.wikipedia.org/wiki/Alternative_versions_of_Captain_America
+https://en.wikipedia.org/wiki/Outline_of_South_America
+https://en.wikipedia.org/wiki/History_of_North_America
+https://en.wikipedia.org/wiki/Heorhy_Tkachenko
+https://en.wikipedia.org/wiki/Captain_America
+https://en.wikipedia.org/wiki/Teach_For_America
+https://en.wikipedia.org/wiki/Sport_in_South_America
+
+
+
+ID	42 (6=0.3202883766055062)
+Event	
+Event model	food(0.038) cow(0.023) farmer(0.022) farm(0.018) agriculture(0.017) animal(0.017) test(0.016) disease(0.015) cattle(0.013) industry(0.011)
+Google query	https://www.google.com/search?q=+food+cow+farmer+farm+agriculture+animal+test+disease+cattle+industry
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Agricultural_policy
+https://en.wikipedia.org/wiki/Agriculture_in_the_United_Kingdom
+https://en.wikipedia.org/wiki/National_Animal_Identification_System
+https://en.wikipedia.org/wiki/Nocton_Dairies_controversy
+https://en.wikipedia.org/wiki/Japan_foot-and-mouth_outbreak
+https://en.wikipedia.org/wiki/Cattle_feeding
+https://en.wikipedia.org/wiki/Farm_Sanctuary
+https://en.wikipedia.org/wiki/Local_food
+https://en.wikipedia.org/wiki/ICT_in_agriculture
+https://en.wikipedia.org/wiki/Ministry_of_Agriculture,_Fisheries_and_Food_(United_Kingdom)
+
+
+
+ID	43 (72=0.3178859255492408)
+Event	
+Event model	money(0.037) bank(0.029) million(0.027) pay(0.02) s(0.017) loan(0.014) financial(0.014) business(0.013) debt(0.012) company(0.011)
+Google query	https://www.google.com/search?q=+money+bank+million+pay+s+loan+financial+business+debt+company
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/GE_Capital
+https://en.wikipedia.org/wiki/Nationalisation_of_Northern_Rock
+https://en.wikipedia.org/wiki/Bank_of_Indiana
+https://en.wikipedia.org/wiki/International_Bank_of_Azerbaijan
+https://en.wikipedia.org/wiki/Northern_Rock
+https://en.wikipedia.org/wiki/JPMorgan_Chase
+https://en.wikipedia.org/wiki/Philadelphia_Savings_Fund_Society
+https://en.wikipedia.org/wiki/Bank_of_America
+https://en.wikipedia.org/wiki/DSB_Bank
+https://en.wikipedia.org/wiki/Peer-to-peer_lending
+
+
+
+ID	44 (32=0.3081549257921183)
+Event	
+Event model	court(0.072) justice(0.035) case(0.032) judge(0.028) s(0.025) law(0.02) supreme(0.017) decision(0.016) lawyer(0.015) appeal(0.015)
+Google query	https://www.google.com/search?q=+court+justice+case+judge+s+law+supreme+decision+lawyer+appeal
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Oregon_Supreme_Court
+https://en.wikipedia.org/wiki/Supreme_Court_of_Singapore
+https://en.wikipedia.org/wiki/High_Court_of_Singapore
+https://en.wikipedia.org/wiki/Court_of_Appeal_of_Singapore
+https://en.wikipedia.org/wiki/Judge
+https://en.wikipedia.org/wiki/New_Hampshire_Supreme_Court
+https://en.wikipedia.org/wiki/Judiciary_of_Oklahoma
+https://en.wikipedia.org/wiki/Hedges_v._Obama
+https://en.wikipedia.org/wiki/Court_of_Cassation_(France)
+https://en.wikipedia.org/wiki/Judicial_system_of_Finland
+
+
+
+ID	45 (0=0.3032360567850314)
+Event	
+Event model	republican(0.061) democrat(0.044) house(0.042) senate(0.042) senator(0.039) bill(0.033) committee(0.024) congress(0.017) representative(0.017) vote(0.015)
+Google query	https://www.google.com/search?q=+republican+democrat+house+senate+senator+bill+committee+congress+representative+vote
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/David_L._Williams_(politician)
+https://en.wikipedia.org/wiki/United_States_Senate_elections,_2014
+https://en.wikipedia.org/wiki/David_Vitter
+https://en.wikipedia.org/wiki/Woody_Jenkins
+https://en.wikipedia.org/wiki/United_States_Senate_elections,_2012
+https://en.wikipedia.org/wiki/Mike_Delph
+https://en.wikipedia.org/wiki/Bill_Cadman
+https://en.wikipedia.org/wiki/Kay_Bailey_Hutchison
+https://en.wikipedia.org/wiki/William_C._Cramer
+https://en.wikipedia.org/wiki/Alabama_Republican_Party
+
+
+
+ID	46 (7=0.2963688605689403)
+Event	
+Event model	afghanistan(0.062) pakistan(0.057) taliban(0.021) india(0.019) government(0.017) karzai(0.016) general(0.016) musharraf(0.014) official(0.014) america(0.014)
+Google query	https://www.google.com/search?q=+afghanistan+pakistan+taliban+india+government+karzai+general+musharraf+official+america
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Taliban
+https://en.wikipedia.org/wiki/Inter-Services_Intelligence_activities_in_Afghanistan
+https://en.wikipedia.org/wiki/Amrullah_Saleh
+https://en.wikipedia.org/wiki/Foreign_relations_of_Afghanistan
+https://en.wikipedia.org/wiki/Jawed_Ludin
+https://en.wikipedia.org/wiki/Balochistan_conflict
+https://en.wikipedia.org/wiki/Tehrik-i-Taliban_Pakistan
+https://en.wikipedia.org/wiki/Afghanistan–Pakistan_relations
+https://en.wikipedia.org/wiki/Hamid_Karzai
+https://en.wikipedia.org/wiki/Afghanistan–India_relations
+
+
+
+ID	47 (33=0.28662726480983386)
+Event	
+Event model	years(0.016) time(0.016) two(0.014) back(0.012) say(0.012) work(0.011) month(0.01) three(0.01) home(0.01) ago(0.01)
+Google query	https://www.google.com/search?q=+years+time+two+back+say+work+month+three+home+ago
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Siebenberg_House
+https://en.wikipedia.org/wiki/2010_San_Francisco_Giants_season
+https://en.wikipedia.org/wiki/2010_Texas_Rangers_season
+https://en.wikipedia.org/wiki/Walk_forward_optimization
+https://en.wikipedia.org/wiki/Say_Again_Yes_I_Do
+https://en.wikipedia.org/wiki/Zara_Carmichael
+https://en.wikipedia.org/wiki/Chemical_Warfare_Brigade
+https://en.wikipedia.org/wiki/Jim_Thome
+https://en.wikipedia.org/wiki/Grant_County,_Georgia
+https://en.wikipedia.org/wiki/Norris_Cole
+
+
+
+ID	48 (96=0.2788058676631783)
+Event	
+Event model	united(0.123) states(0.089) america(0.066) nation(0.052) country(0.033) international(0.021) foreign(0.02) u(0.018) security(0.016) s(0.015)
+Google query	https://www.google.com/search?q=+united+states+america+nation+country+international+foreign+u+security+s
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Timeline_of_labor_issues_and_events
+https://en.wikipedia.org/wiki/American_(word)
+https://en.wikipedia.org/wiki/Japan–United_States_relations
+https://en.wikipedia.org/wiki/Foreign_policy_of_the_United_States
+https://en.wikipedia.org/wiki/United_States_non-interventionism
+https://en.wikipedia.org/wiki/Resolution_(debate)
+https://en.wikipedia.org/wiki/United_Kingdom–United_States_relations
+https://en.wikipedia.org/wiki/Brazil–United_States_relations
+https://en.wikipedia.org/wiki/Morocco–United_States_relations
+https://en.wikipedia.org/wiki/Pax_Americana
+
+
+
+ID	49 (39=0.2664374815549616)
+Event	
+Event model	people(0.009) claim(0.008) public(0.008) try(0.006) know(0.006) back(0.006) cause(0.006) did(0.005) happen(0.005) fear(0.005)
+Google query	https://www.google.com/search?q=+people+claim+public+try+know+back+cause+did+happen+fear
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Internal_Family_Systems_Model
+https://en.wikipedia.org/wiki/Spiral_of_silence
+https://en.wikipedia.org/wiki/Fear_of_a_Black_Planet
+https://en.wikipedia.org/wiki/Shooting_of_Oscar_Grant
+https://en.wikipedia.org/wiki/On_Liberty
+https://en.wikipedia.org/wiki/Varieties_of_criticism
+https://en.wikipedia.org/wiki/Barry_Karr
+https://en.wikipedia.org/wiki/Maher_Arar
+https://en.wikipedia.org/wiki/Broken_windows_theory
+https://en.wikipedia.org/wiki/Social_media_as_a_public_utility
+
+
+
+ID	50 (10=0.26241314197214094)
+Event	
+Event model	china(0.164) beije(0.034) taiwan(0.034) hong(0.024) kong(0.023) s(0.021) official(0.017) chen(0.015) government(0.013) jiang(0.011)
+Google query	https://www.google.com/search?q=+china+beije+taiwan+hong+kong+s+official+chen+government+jiang
+Is this an event?	
+ - Short description	
+ - Estimated event date (MM/DD/YYYY)	
+Is the event in Wikipedia?	
+ - Best URL	
+https://en.wikipedia.org/wiki/Sui_Jianguo
+https://en.wikipedia.org/wiki/Taiwanization
+https://en.wikipedia.org/wiki/Mainland_China
+https://en.wikipedia.org/wiki/Chinese_Unification
+https://en.wikipedia.org/wiki/Visa_policy_of_China
+https://en.wikipedia.org/wiki/One-China_policy
+https://en.wikipedia.org/wiki/History_of_the_People's_Republic_of_China_(2002–present)
+https://en.wikipedia.org/wiki/Foreign_relations_of_Taiwan
+https://en.wikipedia.org/wiki/Foreign_relations_of_China
+https://en.wikipedia.org/wiki/U.S._immigration_policy_toward_the_People's_Republic_of_China
+
+
+
