@@ -2,45 +2,23 @@ setwd("/Users/cwillis/dev/uiucGSLIS/sigir-2016/plots")
 
 par(mfrow=c(1,1))
 pdf("events_at_depth.pdf")
-# Number of candidate events returning known-event URLs at depths 1-10:
+# Number of unique known-event URls at each depth
 x <- seq(1:10)
-lda <- c(6,7,8,9,10,10,11,11,11,12)
-nmf <- c(18,23,30,31,33,33,34,34,35,36)
-plot (lda ~ x, type="l", lty=2, lwd=2, xlab="URL Depth", ylab="Candidate events with known-event URLs", ylim=c(0,40))
+lda <- c(7,13,15,16,17,19,21,22,22,24)
+nmf <- c(27,30,37,37,39,41,42,44,44,44)
+plot (lda ~ x, type="l", lty=2, lwd=2, xlab="URL Depth", ylab="Number of unique known-event URLs", ylim=c(0,50))
 lines (nmf ~ x, lty=1, lwd=2, col="red")
 legend("bottomright", c("TMINMF", "LDA"), col = c("red", "black"), lwd=2, lty=c(1,2),bty="n")
-t.test(lda, nmf)
 dev.off()
 
-
-#Number of unique known-event URLs returned by each system at depths 1-10:
-pdf("unique_urls_at_depth.pdf")
-lda <- c(6,9,12,12,13,13,14,16,17,20)
-nmf <- c(12,12,15,22,22,24,26,27,28,28)
-plot (lda ~ x, type="l", lty=2, lwd=2, xlab="URL Depth", ylab="Unique Event URLs", ylim=c(0,40))
+par(mfrow=c(1,1))
+pdf("prop_at_depth.pdf")
+x <- seq(1:10)
+lda <- c(0.1400,0.1300, 0.1014, 0.0816, 0.0697, 0.0653, 0.0619, 0.0571, 0.0509, 0.0502)
+nmf <- c(0.6585, 0.4054, 0.3274, 0.2517, 0.2097, 0.1830, 0.1585, 0.1438, 0.1279, 0.1146)
+plot (lda ~ x, type="l", lty=2, lwd=2, xlab="URL Depth", ylab="Proportion of true events", ylim=c(0,0.8))
 lines (nmf ~ x, lty=1, lwd=2, col="red")
-legend("bottomright", c("TMINMF", "LDA"), col = c("red", "black"), lwd=2, lty=c(1,2),bty="n")
-t.test(lda, nmf)
+legend("topright", c("TMINMF", "LDA"), col = c("red", "black"), lwd=2, lty=c(1,2),bty="n")
 dev.off()
-
-
-pdf("events_at_rank_1.pdf")
-# Number of candidate events returning known-event URLs at depth 10, by candidate rank:
-x <- rep(1:50)
-lda <- c(1,2,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5)
-nmf <- c(1,2,2,2,2,2,3,3,4,4,4,5,6,6,6,6,7,7,7,7,8,8,8,8,9,10,10,11,11,12,12,13,14,15,15,16,16,17,17,17,17,17,17,17,17,17,17,17,18,18)
-plot(lda ~ x, type="l", lwd=2, lty=2, xlab="Candidate event rank", ylab="Known-events at depth 1", ylim=c(0,40))
-lines(nmf ~ x, type="l", lwd=2, lty=1, col="red")
-legend("bottomright", c("TMINMF", "LDA"), col = c("red", "black"), lwd=2, lty=c(1,2),bty="n")
-dev.off()
-
-pdf("events_at_rank_10.pdf")
-lda <- c(1,2,3,3,3,4,5,5,5,6,7,7,7,7,7,7,7,7,8,8,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9)
-nmf <- c(1,2,3,3,4,4,5,6,7,8,8,9,10,11,12,12,13,13,14,14,15,15,15,15,16,17,18,19,20,21,22,23,24,25,25,26,27,28,28,29,30,30,30,31,32,33,33,34,35,36)
-plot(lda ~ x, type="l", lwd=2, lty=2, xlab="Candidate event rank", ylab="Known-events at depth 10", ylim=c(0,40))
-lines(nmf ~ x, type="l", lwd=2, lty=1, col="red")
-legend("bottomright", c("TMINMF", "LDA"), col = c("red", "black"), lwd=2, lty=c(1,2),bty="n")
-dev.off()
-
 
 

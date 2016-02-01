@@ -3,41 +3,48 @@
 \usepackage{array}
 \usepackage{caption}
 \usepackage{subcaption}
+\usepackage{amsmath}
 
 \newtheorem{definition}{Definition}
 \begin{document}
-%
-% --- Author Metadata here ---
+
+\numberofauthors{2}
+
+\author{
+Craig Willis, Miles Efron, and Garrick Sherman \\
+       \affaddr{Graduate School of Library and Information Science}\\
+       \affaddr{University of Illinois at Urbana-Champaign}\\
+       \email{\{willis8, mefron, gsherma2\}@illinois.edu}
+}
 \conferenceinfo{SIGIR}{'2016 Pisa, Italy}
 
-\title{Detecting significant events in news corpora}
+\title{Detecting large-scale events in news corpora}
 
 \maketitle
 \begin{abstract}
-Retrospective event identification is the task of identifying and summarizing significant events in time-stamped corpora. In this short paper, we present a simple unsupervised method for identifying significant events in a news corpus based on feature temporal mutual information ($I_t$) and non-negative matrix factorization (NMF). We introduce a preliminary test collection and evaluation methodology that can be used for future comparative research. We compare our method to a latent Dirichlet allocation (LDA) approach to better understand the differences between events and topics.
+Retrospective event detection is the task of identifying events in time-stamped corpora. In this short paper, we present a simple unsupervised method for identifying large-scale events in a news corpus based on feature temporal mutual information ($I_t$) and non-negative matrix factorization (NMF). We introduce a preliminary test collection and evaluation methodology that can be used for future comparative research. We compare our method to an approach based on latent Dirichlet allocation (LDA) to better understand key differences between events and topics.
 
 \end{abstract}
 
 % A category with the (minimum) three required fields
 \category{H.3.3}{Information Search and Retrieval}{}
 
-\terms{}
-
-\keywords{Event detection}
+%\terms{}
+%\keywords{Event detection}
 
 \section{Introduction}
 
-Imagine a Wikipedia editor creating a `year' page (e.g., https://en.wikipedia.org/wiki/1988\#Events) containing a list of important events that occurred during that year. Given a corpus of news articles (or other timestamped collection), it should be possible to show the editor a list of major events that were reported during the time period to facilitate the creation or validation of these pages. Such a system might rank the events by importance, provide estimated dates of event occurrence, and a ranking of candidate Wikipedia pages that describe the associated event. 
+Imagine a journalist constructing a `year in review' article or a Wikipedia editor creating a `year' page containing a list of important events that occurred during that year\footnote{e.g., https://en.wikipedia.org/wiki/1988\#Events}. Given a corpus of news articles (or other timestamped collection), it should be possible to show the editor a list of major events that were reported during the time period to facilitate the creation or validation of these pages. Such a system might rank the events by importance, provide estimated dates of event occurrence, and a ranking of candidate Wikipedia pages that describe the associated event. 
 
-In this short paper, we present a novel method for retrospective event identification in news corpora based on temporal mutual information \cite{Teng2008} and non-negative matrix factorization \cite{Lee2001}. We also introduce a preliminary test collection and evaluation methodology based on Wikipedia that can be used for future comparative research.  As far as we know, we are the first to propose a method for comparative evaluation in this type of retrospective event identification task.
+In this short paper, we present a novel method for retrospective event identification in news corpora based on temporal mutual information \cite{Teng2008} and non-negative matrix factorization \cite{Lee2001}, which we call TMINMF. We also introduce a preliminary test collection and evaluation methodology based on Wikipedia that can be used for future comparative research.  As far as we know, we are the first to propose a method for comparative evaluation in this type of retrospective event identification task.
 
-Following \cite{Weng2011}, we compare the results of our method to an LDA baseline. For the purpose of retrospective event identification, our model consistently outperforms the baseline.
+Following \cite{Weng2011}, we compare the results of our method to an LDA baseline. Comparing the proportion of true events identified by the two models, we find our TMINMF is significantly better than the LDA model based on a two-sided Binomial proportion test ($p < 0.01$).
 
-This short paper is organized as follows. In Section 2 we review the concept of significant events followed by a summary of related work in Section 3. In Sections 4 and 5 we introduce our model and the LDA baseline model. Section 6 describes the evaluation methodology and test collection. Section 7 summarizes the results followed by conclusions and next steps in Section 8.
+This short paper is organized as follows. In Section 2 we review the concept of an \emph{event} followed by a summary of related work in Section 3. In Sections 4 and 5 we introduce our model and the LDA baseline. Section 6 describes the evaluation methodology and test collection. Section 7 summarizes the results followed by conclusions and next steps in Section 8.
 
 \section{What is an event?}
 
-The concepts of `event detection' or `event extraction' are common in the information retrieval and natural language processing literature. In this paper, we are concerned with the identification of large-scale events as reported in historical news corpora. A number of studies have used the concepts of ``significant,'' ``seminal,'' or ``newsworthy'' events to describe such large-scale events.  Our notion of event is most closely related to the ``seminal events'' of the Topic Detection and Tracking (TDT) task, although the task itself is quite different. Examples of large-scale events include major elections, natural disasters, political revolutions, wars, and acts of violence.
+The concepts of `event detection' or `event extraction' are common in the information retrieval and natural language processing literature. In this paper, we are concerned with the identification of large-scale events as reported in historical news corpora.   Examples of large-scale events include major elections, natural disasters, political revolutions, wars, and other acts of violence.
 
 
 \section{Related Work}
@@ -48,18 +55,18 @@ For example, Fung et al \cite{Fung2005} identify temporally interesting features
 
 He, Chang and Lim \cite{He2007} use spectral analysis to identify interesting features in text corpora. Features are grouped into events using a cost-minimization approach that combines the similarity of the temporal distributions using KL divergence and co-occurrence of terms in documents. 
 
-Weng and Lee \cite{Weng2011} use wavelet analysis to identify interesting features and then apply graph partitioning to a graph with terms as nodes and the cross-correlation of term time-series as edge weights. This approach does not account for term co-occurrence in documents.
+Weng and Lee \cite{Weng2011} use wavelet analysis to identify interesting features which are used to construct a graph with terms as nodes and the cross-correlation of term time-series as edge weights. They apply a graph partitioning algorithm to identify events as sets of connected terms. 
 
-Also related to the current study is research in latent semantic analysis (LSA) \cite{Deerwester1990, Hofmann1999} and topic modeling \cite{Blei2003}.  Event models can be seen as a special type of temporally-constrained topic models. Our approach is akin to the factor-based LSA approach, but we anticipate expanding this work to a generative probabilistic framework in the future.  
-
-
+Also related to the current study is research in latent semantic analysis (LSA) \cite{Deerwester1990, Hofmann1999} and topic modeling \cite{Blei2003}.  Event models can be seen as temporally-constrained topic models. Our approach is akin to the factor-based LSA, but we anticipate expanding this work to a generative probabilistic framework in the future.  
 
 
-\section{Event detection model (TMINMF)}
+
+
+\section{Event detection model (TMINMF)}	
 
 Each of the feature-centric models described above includes two basic steps. The first is to identify terms or features that are indicative of an event in the corpus, generally using time-series methods. The second is to combine terms generated by the same underlying event into event models.  This is usually done by balancing temporal similarity (e.g., time series correlation) with term co-occurrence in documents.
 
-In this study, we identify temporally interesting terms using the first-order autocorrelation (ACF) of the term time series \cite{Jones2007}. We then calculate the temporal mutual information between the top $K$ terms based on ACF and apply non-negative matrix factorization (NMF) to identify latent factors. We interpret the resulting factors as events. The basic process is defined as follows:
+In this study, we identify temporally interesting terms using the first-order autocorrelation (ACF) of the term time series \cite{Jones2007}. We then calculate the temporal mutual information between the top $k$ terms based on ACF and apply non-negative matrix factorization (NMF) to identify latent factors. We interpret the resulting factors as events. The basic process is defined as follows:
 
 First, we construct a temporal index from the document collection that consists of time series for each term in the vocabulary at a particular interval (e.g., hour, day, week):
 \begin{definition}
@@ -84,9 +91,9 @@ Next, for each term in the vocabulary, we calculate the first-order autocorrelat
 \]
 \end{definition}
 
-Terms with high temporal dependency will have very high (1) or very low (-1) $\rho$.  For this short paper, we consider only the top $K$ features based on ACF, where $K$ is chosen heuristically.
+Terms with high temporal dependency will have very high (1) or very low (-1) $\rho$  \cite{Jones2007}.  For this short paper, we consider only the top $k$ features based on ACF, where $k$ is chosen heuristically.
 
-For all terms with high temporal dependency, we calculate the temporal mutual information $I_t(x;y \vert t)$ between terms \cite{Teng2008}. 
+For the top $k$ terms, we calculate the temporal mutual information $I_t(x;y \vert t)$ between term pairs \cite{Teng2008}. 
 
 \begin{definition}
  \text{ \normalfont Temporal mutual information. }
@@ -96,7 +103,7 @@ I_t(x;y \vert t) = p(x,y \vert t) \log \dfrac{p(x,y \vert t)}{p(x \vert t) p(y \
 \]
 \end{definition}
 
-In this study, $I_t(x;y \vert t)$ is calculated independently for each interval (as opposed to cumulatively, as described in \cite{Teng2008}).
+In this study, $I_t(x;y \vert t)$ is calculated independently for each interval.
 
 Finally, we construct a symmetric matrix of the maximum $I_t$ between terms and apply NMF \cite{Lee2001} to identify latent factors. 
 \begin{definition}
@@ -111,7 +118,9 @@ We interpret the matrix $W$ as latent event models, using the assigned weights a
 
 \section{Baseline LDA model}
 
-As noted above, there is a relationship between event detection and topic modeling, such as latent Dirichlet allocation (LDA) \cite{Blei2003}. Some topics are likely generated by events, particularly in news corpora. Even though LDA does not explicitly incorporate time, we expect to find some event-related topics.  The problem is how to identify them from the resulting set of topic models.
+Most previous treatments of this task offer evaluation through `eyeballing' the quality of generated event models. Only \cite{Weng2011} compares their  method to an older baseline -- LDA.  However, while \cite{Weng2011} does offer comparative evaluation, the evaluation is again heuristic. Our goal in bringing LDA into this analysis is to allow quantitative assessment of the quality of TMINMF as compared to models generated by the well-studied LDA method. For details on the LDA model itself, the reader is directed to \cite{Blei2003}.
+
+There is a relationship between event detection and topic modeling. Some topics are likely generated by events, particularly in news corpora.  The problem is how to identify them from the resulting set of topic models.
 
 One approach is to consider LDA topics ranked by the first order autocorrelation (ACF) of the topic time-series. The time series of a topic $m$ is defined as the sequence:
 \[
@@ -122,10 +131,11 @@ where each element $y_m(t)$ is a measure of the topic $m$ at time $t$. For this 
 	y_m(t) = \sum_{d \in D} p(m \vert d, t)
 \]
 
-We calculate the topic time series ACF as described Section 4. As in \cite{Weng2011}, we compare our event detection model to the baseline of LDA-generated topics ranked by topic time series ACF.   The event models are evaluated as described in the next section.
+We then calculate the ACF of each topic time series and rank topics by ACF, selecting the top $N$ topics for evaluation.  We hypothesize that topics with high ACF values are more likely to represent events.  The main difference between the LDA baseline and the TMINMF model described in Section 4 is that the TMINMF starts with a subset of features with strong temporal signals, whereas the LDA method constructs topics from the entire vocabulary. Using the ACF approach, we look for temporal signals in the topic distributions over time. We compare the two approaches as described in the next section.
+
 
 \begin{table*}[!htbp]
-\small
+\scriptsize
 \begin{tabular}{| l | p{1cm} | p{8cm} | p{6cm} | } \hline
 {\bf ID} & {\bf Date} &  {\bf Description}  & {\bf Wikipedia URL} \\ \hline
 19 & Mar 11 & Terrorists execute simultaneous attacks, with bombs in 4 rush-hour trains in Madrid, killing 191 people.	&  2004\_Madrid\_train\_bombings \\ \hline
@@ -140,76 +150,50 @@ We calculate the topic time series ACF as described Section 4. As in \cite{Weng2
 
 \section{Evaluation}
 
-Previous studies in feature-centric event detection have not provided reusable test collections or methodologies for comparative evaluation. In general, authors have analyzed the output of proposed models in isolation.  Only \cite{Weng2011} compares the results of their models to LDA, but only qualitatively. In this section, we outline a preliminary methodology and test collection that can be used for future comparative evaluation.
+In this section, we outline a preliminary methodology and test collection that can be used for future comparative evaluation. A primary concern in the evaluation of feature-centric event detection is how effective the model is at identifying true events in the corpus. For this short paper, we propose an evaluation methodology based on Wikipedia and the pooled results of the systems under comparison.
 
-The primary concern in the evaluation of feature-centric event detection models is how effective the model is at identifying events in the corpus. For this short paper, we propose an evaluation methodology based on Wikipedia and the pooled results of the systems under comparison.
+We hypothesize that high-quality event models will serve as effective queries against external corpora, such as Wikipedia. Each event model is, in essence, a language model describing an event and as such fit naturally into a KL-divergence ranking framework. For evaluation, we use the candidate event models as queries against an indexed copy of Wikipedia, returning the top $j$ pages. The retrieval system is Indri with Dirichlet smoothing ($\mu=2500$). 
+Before evaluation, each system generates a set of $N$ candidate event models from a news corpus (e.g., New York Times or Associate Press). Each event model contains a list of $k$ terms with associated weights, which are used as a query against Wikipedia returning the top $j$ page (represented as URLs).
 
-Before evaluation, each system generates a set of $N$ candidate event models based on the test corpus. Each model contains a list of $k$ terms and associated weights. 
+To develop a ground-truth of \emph{known-events}, we start with events listed in the Wikipedia `year' pages for the period of the document collection\footnote{https://en.wikipedia.org/wiki/2004\#Events}. The known-event list contains the event description, dates, and associated Wikipedia URL. We then pool the URLs returned by the two systems, which are manually reviewed to identify any missing events from the known-events list.  At the end of this process, we have a ground-truth of unique known-events represented as Wikipedia page URLs, based on a combination of the Wikipedia year pages and the pooled results from the systems.  
 
-To develop a ground-truth of \emph{known-events}, we start with events listed in the Wikipedia `year' pages for the period of the test collection. The known-event list contains an event ID, description, date, and associated Wikipedia URL. With this initial data, the pooled candidate events from the systems are then manually reviewed to identify any events missing from the known-events list.  Each candidate event model is compared to the list and, if it is determined by the assessor to represent an event that is missing, is added. At the end of this process, we have a ground-truth of unique known-events represented as URLs, based on a combination of the Wikipedia year pages and the pooled results from the systems.  
+For each of the top $N$ candidate events, we compare the systems based (1) on the number of known-event URLs returned at each depth (i.e., $1 < j < 10$) and (2) based on the proportion of known events identified in the top $N$ candidate events at each depth.  This approach allows us to compare systems without requiring qualitative human assessment of individual event models.
 
-For evaluation, we use the candidate event models (i.e., terms and term weights) as queries against an indexed copy of Wikipedia, returning the top $k$ pages.  We hypothesize that a high-quality event model will serve as an effective query. For each of the top $N$ candidate events, we compare the number of known-event URLs returned at each depth (i.e., $1 < k < 10$) and based on the proportion of known events identified in the top $N$ candidate events at each depth.
 
+
+\subsection{Test metric}
+At first glance it might seem that standard ranked retrieval metrics such as mean average precision (MAP) or normalized discounted cumulative gain (NDCG) would be well-suited for this evaluation. However, these metrics require that retrieved documents be judged with respect to known information needs. In our case, the candidate event models returned by the system are not necessarily clear information needs, and judging relevant documents would require qualitative interpretation of the event models. Also, ranked retrieval metrics are not designed to handle redundancy, which is also a concern in this evaluation.  For this short paper, we define a simple metric that handles redundancy and can be used to compare the effectiveness of the systems at identifying events in the corpus.  For the top $N$ candidate events, we look at the unique set of URLs returned and calculate how many of these are in the known-events list:
+
+\[
+p = \dfrac{\vert \text{ Unique URLs returned} \cap \text{Known events list} \vert}{\vert \text{Unique URLs returned} \vert}
+\]
+
+This is simply the proportion of unique Wikipedia URLs returned by the system that are found in the known events list. We compare the systems using a two-sided Binomial proportion test.
 
 \subsection{Test collection}
-News articles from the year 2004 in the New York Times Annotated Corpus \cite{Sandhaus2008} are used for evaluation. Only articles found in section A (available via document metadata) are considered and summary articles are ignored. Stopwords are removed using the standard Indri list. The resulting collection consists of 25,689 documents.
+News articles from the year 2004 in the New York Times Annotated Corpus \cite{Sandhaus2008} are used for evaluation. Only articles found in Section A (available via document metadata) are considered and summary articles are ignored. Stopwords are removed using the standard Indri list. The resulting collection consists of 25,689 documents.
 
-The ``known-events'' list is constructed using the process described in the previous section based on the ``Events'' section of the 2004 Wikipedia year page\footnote{https://en.wikipedia.org/wiki/2004\#Events} and the top $N=50$ candidate events from the two systems.  The final ``known-events'' list contains 140 unique events with associated Wikipedia URLs. Of these events, 95 are from the Wikipedia year page and the remaining 55 were added based on the pooled system results.  Selected entries from the known-events list are presented in Table \ref{table.knownevents}.  The indexed copy of Wikipedia is from 09/01/2015.
+The ``known-events'' list is constructed using the process described in the previous section based on the ``Events'' section of the 2004 Wikipedia year page\footnote{https://en.wikipedia.org/wiki/2004\#Events} and the top $N=50$ candidate events from the two systems.  The final ``known-events'' list contains 126 unique events represented by Wikipedia URLs. Of these events, 95 are from the Wikipedia year page and the remaining 31 were added based on the pooled system results.  Selected entries from the known-events list are presented in Table \ref{table.knownevents}.  The indexed copy of Wikipedia is from 09/01/2015.
 
 \section{Results}
-The TMINMF model was run using the top 1000 features based on ACF and $k=50$ factors for NMF. The LDA model was run using the Mallet implementation with $T=100$ topics, an interval of 10 for hyperparameter optimization, and all other default values. Only the top $N=50$ LDA topics were considered as events for evaluation, based on topic time series ACF.
-
-The top 5 events from both the TMINMF and LDA methods are presented in Table \ref{table.top5}. Outwardly, the models look similar and would be difficult to qualitatively evaluate.  Figure \ref{fig.eventdist} compares the TMINMF and LDA methods under four separate conditions.  
-
-The first graph shows the number of candidate events that returned one or more known-event URL each depth ($k \in 1:10$). Looking only at the first URL  returned by each system (depth=1) for all events, 6 of the candidate LDA models returned known-event URLs, compared to 18 TMINMF candidate events. Looking at all 10 URLs (depth=10) returned for each event, 12 of the candidate LDA models returned known-event URLS, compared to 36 TMINMF candidate events.  Note that the systems may have identified duplicate events.
-
-To get at the unique known-events identified by each model, the second graph shows the number of unique known-event URLs returned at each depth. Looking only at the first URL returned by each system (depth=1), the LDA model returned 6 unique URLs while the TMINMF model returned 12. This is compared to 20 and 28 unique known-event URLS respectively at depth 10. 
-
-The remaining two graphs are intended to show the number of candidate events that returned known-event URLs at each event rank ($1-50$). In graph three, looking at the first URL returned by the candidate events from the LDA model, by the 20th candidate the user would have seen 5 known-events compared to 8 from the TMINMF model. The fourth graph is the same, but for the top 10 URLs returned for each candidate event.
-
-From these graphs, we can see that the TMINMF model is consistently more effective at identifying known-events than the ACF-ranked LDA topics. This is both in terms of event coverage (i.e., more known events were returned) and in event model quality (i.e., the event models serve as better queries to Wikipedia).  
-
-\section{Conclusions}
-
-This short paper has introduced a simple and effective method for retrospective event detection in news corpora. Previous research in this area has relied on predominantly on isolated qualitative evaluation to assess model effectiveness. We have also introduced a preliminary evaluation methodology that can be used for future comparative evaluations. Using this evaluation methodology, we demonstrate that our simple model is effective and outperforms an LDA-based approach. 
-
-The described TMINMF approach has several strengths. First, it is principled, relying on a well-known methods to measure term associations (mutual information) and factor analysis (NMF). Second, using NMF terms can be in multiple event models.  Third, it has a natural way of weighting terms based on the assigned factor weights. While this is also true with LDA, it is not the case with previous models.  
-
-Future work: Evaluation over a larger corpus (the LDC NYT collection contains articles from 1987-2007). Estimation and evaluation of event dates. Methods for ranking events by importance. Generative model, ala LDA.
-
-
-\section{Acknowledgments}
-This work was supported in part by the US National Science Foundation under Grant No. [blind]. Any opinions, findings, conclusions, or recommendations expressed are those of the authors and do not necessarily reflect the views of the National Science Foundation.
-
-
-\bibliographystyle{abbrv}
-\bibliography{eventdetection}  
-
-\begin{figure*}[!ht]
+\begin{figure}
 \centering
-\begin{subfigure}{.5\textwidth}
+\begin{subfigure}{.25\textwidth}
   \centering
-\includegraphics[width=9cm]{plots/events_at_depth.pdf}
+\includegraphics[width=4cm]{plots/events_at_depth.pdf}
 \end{subfigure}%
-\begin{subfigure}{.5\textwidth}
+\begin{subfigure}{.25\textwidth}
   \centering
-\includegraphics[width=9cm]{plots/unique_urls_at_depth.pdf}
+\includegraphics[width=4cm]{plots/prop_at_depth}
 \end{subfigure}
-\begin{subfigure}{.5\textwidth}
-  \centering
-\includegraphics[width=9cm]{plots/events_at_rank_1.pdf}
-\end{subfigure}%
-\begin{subfigure}{.5\textwidth}
-  \centering
-\includegraphics[width=9cm]{plots/events_at_rank_10.pdf}
-\end{subfigure}
-\caption{(a) number candidate events returning known-event URLs at each URL depth, (b) number of unique known-event URLs at each depth (c) number of candidate events returning known-event URLs at depth 1 for all ranks, (d)  number of candidate events returning known-event URLs at depth 10 for all ranks.}
+\caption{(a) number of unique known-event URLs at each depth, (b) proportion of unique known-event URLs at each depth}
 \label{fig.eventdist}
-\end{figure*}
+\end{figure}
 
-\begin{table*}
-\small
-\begin{tabular}{| l | p{7cm} | p{7cm} | } \hline
+
+\begin{table}
+\scriptsize
+\begin{tabular}{| p{0.2cm} | p{3.5cm} | p{3.5cm} | } \hline
 {\bf ID } & {\bf TMINMF} & {\bf LDA } \\ \hline
 1 & wesley(0.075) clark(0.074) dean(0.055) primary(0.052) howard(0.05) edwards(0.05) kerry(0.049) hampshire(0.048) 2004(0.045) missouri(0.044) & 
 edwards(0.048) dean(0.048) campaign(0.043) dr(0.034) kerry(0.025) candidate(0.024) s(0.018) iowa(0.018) primary(0.016) clark(0.016) \\ \hline
@@ -224,7 +208,35 @@ vote(0.077) election(0.059) voter(0.057) percent(0.03) poll(0.027) ballot(0.022)
 \end{tabular}
 \caption{Top 5 events detected by TMINMF and LDA methods}
 \label{table.top5}
-\end{table*}
+\end{table}
+
+
+
+
+The TMINMF model was run using the top 1000 features based on ACF and $k=50$ factors for NMF. The LDA model was run using the Mallet implementation with $T=100$ topics, an interval of 10 for hyperparameter optimization, and all other default values. Only the top $N=50$ LDA topics were considered as events for evaluation\footnote{This is done to help eliminate the more general LDA topics, i.e., those containing common words/stopwords} based on topic time series ACF.
+
+The top 5 events from both the TMINMF and LDA methods are presented in Table \ref{table.top5}. Outwardly, the models look similar and would be difficult to compare qualitatively.  Figure \ref{fig.eventdist} compares the TMINMF and LDA approaches.  The first graph (a) shows the number of unique known-event URLs returned by the two systems at each depth ($1 \le k \le 10$).  The second graph (b) shows the proportion of unique URLs that are found in the known-item list  at each depth.
+
+Finally, we compare the two systems using the proportion of known events identified, as described in Section 6.1.  At a depth of 1,   $p_{TMINMF}=27/41=0.6585$ and $p_{LDA}=7/50=0.1400$.  At a depth of 5, the proportion of events is $p_{TMINMF}=39/186=0.2097$ and $p_{LDA}=0.0697=0.1400$. Using a two-sided Binomial proportion test, in both cases the proportions are not equal ($p = 0.001$ and $p = 0.0003$ respectively).
+
+
+\section{Conclusions}
+
+Based on these results, we can see that the TMINMF model is consistently more effective at identifying known-events than the ACF-ranked LDA topics.  From this we can conclude that the TMINMF model is more effective both in terms of event coverage (i.e., more unique known events were returned) and in event model quality (i.e., the event models serve as better queries to Wikipedia).  
+
+The TMINMF approach has several strengths. First, it is principled, relying on a well-known methods to measure term associations (mutual information) and factor analysis (NMF). Second, by using NMF terms can be assigned to multiple event models (similar to LDA).  Third, it has a natural way of weighting terms based on the assigned factor weights. While this is also true with LDA, it is not the case with previous models such as \cite{He2007}.  
+
+This short paper has introduced a simple and effective method for retrospective event detection in news corpora. Previous research in this area has relied on predominantly on isolated qualitative evaluation to assess model effectiveness. We have also introduced a preliminary evaluation methodology that can be used for future comparative evaluations. Using this evaluation methodology, we demonstrate that our simple model is effective and outperforms an LDA-based approach. 
+
+Future work: We plan to explore event models in the generative probabilistic framework. We will expand the current method to include estimation of event dates and ranking events by importance. We will expand and refine the evaluation methodology. We plan to evaluate this method using a larger corpus -- for example, the LDC NYT collection covers the years 1987-2007.
+
+
+\section{Acknowledgments}
+This work was supported in part by the US National Science Foundation under Grant No. [blind]. Any opinions, findings, conclusions, or recommendations expressed are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+
+
+\bibliographystyle{abbrv}
+\bibliography{eventdetection}  
 
 
 
