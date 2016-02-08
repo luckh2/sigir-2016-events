@@ -35,11 +35,11 @@ Retrospective event detection is the task of identifying events in time-stamped 
 
 \section{Introduction}
 
-Imagine a journalist constructing a `year in review' article or a Wikipedia editor creating a page summarizing a list of important events that occurred during a particular year\footnote{e.g., https://en.wikipedia.org/wiki/1988\#Events}. Given a corpus of news articles (or other timestamped collection), it should be possible to show them a list of major events that were reported during the time period to facilitate the creation or validation of these pages. Such a system might rank the events by importance, provide estimated dates of event occurrence, and a ranking of candidate Wikipedia pages that describe the associated event. 
+Imagine a journalist constructing a `year in review' article or a Wikipedia editor creating a page summarizing a list of important events that occurred during a particular year\footnote{e.g., https://en.wikipedia.org/wiki/1988\#Events}. Given a corpus of news articles (or other timestamped collection), it should be possible to show him a list of major events that were reported during the time period to facilitate the creation or validation of these pages. Such a system might rank the events by importance, provide estimated dates of event occurrence, and a ranking of candidate Wikipedia pages that describe the associated event. 
 
 In this short paper, we present a novel method for retrospective event identification in news corpora based on temporal mutual information \cite{Teng2008} and non-negative matrix factorization \cite{Lee2001}, which we call TMINMF. We also introduce a preliminary test collection and evaluation methodology based on Wikipedia that can be used for future comparative research.  As far as we know, we are the first to propose a method for comparative evaluation in this type of retrospective event identification task.
 
-Following \cite{Weng2011}, we compare the results of our method to an LDA baseline. We find the TMINMF model is significantly better than the LDA model based on mean reciprocal rank (MRR) of events identified by the two models (two-sided t-test, $p < 0.001$) as well as the proportion of true events identified by the two models (Binomial proportion test, $p < 0.01$).
+Following \cite{Weng2011}, we compare the results of our method to an LDA baseline. We find the TMINMF model is significantly better than the LDA model based on mean reciprocal rank (MRR) of events identified by the two models (two-sided t-test, $p < 0.001$) as well as the proportion of true events identified by the two models (binomial proportion test, $p < 0.01$).
 
 This short paper is organized as follows. In Section 2 we review the concept of an \emph{event} followed by a summary of related work in Section 3. In Sections 4 and 5 we introduce our model and the LDA baseline. Section 6 describes the evaluation methodology and test collection. Section 7 summarizes the results followed by conclusions and next steps in Section 8.
 
@@ -173,7 +173,7 @@ Next, we calculate the simple proportion of unique Wikipedia URLs returned by th
 p = \dfrac{\vert \text{ Unique URLs returned} \cap \text{Known events list} \vert}{\vert \text{Unique URLs returned} \vert}
 \]
 
-We compare MRR using a two-sided t-test and the $p$ using a two-sided Binomial proportion test.
+We compare MRR using a two-sided t-test and the $p$ using a two-sided binomial proportion test.
 
 \subsection{Test collection}
 News articles from the year 2004 in the New York Times Annotated Corpus \cite{Sandhaus2008} are used for evaluation. Only articles found in Section A (available via document metadata) are considered and summary articles are ignored. Stopwords are removed using the standard Indri list. The resulting collection consists of 25,689 documents.
@@ -217,9 +217,9 @@ vote(0.077) election(0.059) voter(0.057) percent(0.03) poll(0.027) ballot(0.022)
 
 The TMINMF model was run using a daily interval with the top 1000 features based on ACF and $k=50$ factors for NMF. The LDA model was run using the Mallet implementation with $T=100$ topics, an interval of 10 for hyperparameter optimization, and all other default values. Only the top $N=50$ LDA topics were considered as events for evaluation\footnote{This is done to help eliminate the more general LDA topics, i.e., those containing common words/stopwords} based on topic time series ACF.
 
-The top 5 events from both the TMINMF and LDA methods are presented in Table \ref{table.top5}. Outwardly, the models look similar and would be difficult to compare qualitatively.  Figure \ref{fig.eventdist} compares the TMINMF and LDA approaches.  The first graph (a) shows the number of unique known-event URLs returned by the two systems at each depth ($1 \le k \le 10$).  The second graph (b) shows the proportion of unique URLs that are found in the known-item list  at each depth.
+The top 5 events from both the TMINMF and LDA methods are presented in Table \ref{table.top5}. Outwardly, the models look similar and would be difficult to compare qualitatively.  Figure \ref{fig.eventdist} compares the TMINMF and LDA approaches.  The first graph (a) shows the number of unique known-event URLs returned by the two systems at each depth ($1 \le d \le 10$).  The second graph (b) shows the proportion of unique URLs that are found in the known-item list  at each depth.
 
-Finally, we compare the two systems using the MRR of the first known-item URL for each candidate event and the proportion of known events identified, as described in Section 6.1.  The MRR of the LDA and TMINMF models is 0.160 and 0.4965 respectively. The means are not equal based on a two-sided t-test ($p < 0.001$).   The proportions at a depth of 1,   $p_{TMINMF}=27/41=0.6585$ and $p_{LDA}=7/50=0.1400$.  At a depth of 5, the proportion of events is $p_{TMINMF}=39/186=0.2097$ and $p_{LDA}=17/244=0.0697$. Using a two-sided Binomial proportion test, in both cases the proportions are not equal ($p < 0.01$).
+Finally, we compare the two systems using the MRR of the first known-item URL for each candidate event and the proportion of known events identified, as described in Section 6.1.  The MRR of the TMINMF and LDA models is 0.4965 and 0.160 respectively. The means are not equal based on a two-sided t-test ($p < 0.001$).   The proportions at a depth of 1,   $p_{TMINMF}=27/41=0.6585$ and $p_{LDA}=7/50=0.1400$.  At a depth of 5, the proportion of events is $p_{TMINMF}=39/186=0.2097$ and $p_{LDA}=17/244=0.0697$. Using a two-sided binomial proportion test, in both cases the proportions are not equal ($p < 0.01$).
 
 
 \section{Conclusions}
