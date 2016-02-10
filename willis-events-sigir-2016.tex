@@ -71,16 +71,16 @@ In this study, we identify temporally interesting terms using the first-order au
 
 First, we construct a temporal index from the document collection that consists of time series for each term in the vocabulary at a particular interval (e.g., hour, day, week):
 \begin{definition}
- \text{ \normalfont Feature time series. }
- The time series of a feature f is defined as the sequence:
+ \text{ \normalfont Term time series. }
+ The time series of a term f is defined as the sequence:
 \[
 y_f = [y_f(1), y_f(2), ..., y_f(T)],
 \]
-where each element $y_f(t)$ is a measure of feature f at time t. For this paper, we use the simple document frequency:
+where each element $y_f(t)$ is a measure of term f at time t. For this paper, we use the simple document frequency:
 \[
 	y_f(t) = DF_f(t)
 \]
-where $DF_f(t)$ is the number of documents containing feature f at time t.
+where $DF_f(t)$ is the number of documents containing term f at time t.
 \end{definition}
 
 Next, for each term in the vocabulary, we calculate the first-order autocorrelation ($\rho$) of the time series. 
@@ -92,7 +92,7 @@ Next, for each term in the vocabulary, we calculate the first-order autocorrelat
 \]
 \end{definition}
 
-As noted by \cite{Jones2007}, terms with high temporal dependency will have very high (1) or very low (-1) $\rho$.  For this short paper, we consider only the top $k$ features based on ACF, where $k$ is chosen heuristically.
+As noted by \cite{Jones2007}, terms with high temporal dependency will have very high (1) or very low (-1) $\rho$.  For this short paper, we consider only the top $k$ terms based on ACF, where $k$ is chosen heuristically.
 
 For the top $k$ terms, we calculate the temporal mutual information $I_t(x;y \vert t)$ between term pairs \cite{Teng2008}. 
 
@@ -132,7 +132,7 @@ where each element $y_m(t)$ is a measure of the topic $m$ at time $t$. For this 
 	y_m(t) = \sum_{d \in D} p(m \vert d, t)
 \]
 
-We then calculate the ACF of each topic time series and rank topics by ACF, selecting the top $N$ topics for evaluation.  We hypothesize that topics with high ACF values are more likely to represent events.  The main difference between the LDA baseline and the TMINMF model described in Section 4 is that the TMINMF starts with a subset of features with strong temporal signals, whereas the LDA method constructs topics from the entire vocabulary. Using the ACF approach, we look for temporal signals in the topic distributions over time. We compare the two approaches as described in the next section.
+We then calculate the ACF of each topic time series and rank topics by ACF, selecting the top $N$ topics for evaluation.  We hypothesize that topics with high ACF values are more likely to represent events.  The main difference between the LDA baseline and the TMINMF model described in Section 4 is that the TMINMF starts with a subset of terms with strong temporal signals, whereas the LDA method constructs topics from the entire vocabulary. Using the ACF approach, we look for temporal signals in the topic distributions over time. We compare the two approaches as described in the next section.
 
 
 \begin{table*}[!htbp]
@@ -215,7 +215,7 @@ vote(0.077) election(0.059) voter(0.057) percent(0.03) poll(0.027) ballot(0.022)
 \label{table.top5}
 \end{table}
 
-The TMINMF model was run using a daily interval with the top 1000 features based on ACF and $k=50$ factors for NMF. The LDA model was run using the Mallet implementation with $T=100$ topics, an interval of 10 for hyperparameter optimization, and all other default values. Only the top $N=50$ LDA topics were considered as events for evaluation\footnote{This is done to help eliminate the more general LDA topics, i.e., those containing common words/stopwords} based on topic time series ACF.
+The TMINMF model was run using a daily interval with the top 1000 terms based on ACF and $k=50$ factors for NMF. The LDA model was run using the Mallet implementation with $T=100$ topics, an interval of 10 for hyperparameter optimization, and all other default values. Only the top $N=50$ LDA topics were considered as events for evaluation\footnote{This is done to help eliminate the more general LDA topics, i.e., those containing common words/stopwords} based on topic time series ACF.
 
 The top 5 events from both the TMINMF and LDA methods are presented in Table \ref{table.top5}. Outwardly, the models look similar and would be difficult to compare qualitatively.  Figure \ref{fig.eventdist} compares the TMINMF and LDA approaches.  The first graph (a) shows the number of unique known-event URLs returned by the two systems at each depth ($1 \le d \le 10$).  The second graph (b) shows the proportion of unique URLs that are found in the known-item list  at each depth.
 
