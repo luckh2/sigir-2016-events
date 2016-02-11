@@ -10,7 +10,7 @@
 
 \numberofauthors{2}
 
-\author{[Blind]}
+%\author{[Blind]}
 %\author{
 %Craig Willis, Miles Efron, and Garrick Sherman \\
 %     \affaddr{Graduate School of Library and Information Science}\\
@@ -35,11 +35,11 @@ Retrospective event detection is the task of identifying events in time-stamped 
 
 \section{Introduction}
 
-Imagine a journalist constructing a `year in review' article or a Wikipedia editor creating a page summarizing a list of important events that occurred during a particular year\footnote{e.g., https://en.wikipedia.org/wiki/1988\#Events}. Given a corpus of news articles (or other timestamped collection), it should be possible to show him a list of major events that were reported during the time period to facilitate the creation or validation of these pages. Such a system might rank the events by importance, provide estimated dates of event occurrence, and a ranking of candidate Wikipedia pages that describe the associated event. 
+Imagine a journalist constructing a `year in review' article or a Wikipedia editor creating a page summarizing a list of important events that occurred during a particular year\footnote{e.g., https://en.wikipedia.org/wiki/1988\#Events}. Given a corpus of news articles (or other timestamped collection), it should be possible to show her a list of major events that were reported during the time period to facilitate the creation or validation of these pages. Such a system might rank the events by importance, provide estimated dates of event occurrence, and a ranking of candidate Wikipedia pages or articles that describe the associated event. 
 
 In this short paper, we present a novel method for retrospective event identification in news corpora based on temporal mutual information \cite{Teng2008} and non-negative matrix factorization \cite{Lee2001}, which we call TMINMF. We also introduce a preliminary test collection and evaluation methodology based on Wikipedia that can be used for future comparative research.  As far as we know, we are the first to propose a method for comparative evaluation in this type of retrospective event identification task.
 
-Following \cite{Weng2011}, we compare the results of our method to an LDA baseline. We find the TMINMF model is significantly better than the LDA model based on mean reciprocal rank (MRR) of events identified by the two models (two-sided t-test, $p < 0.001$) as well as the proportion of true events identified by the two models (binomial proportion test, $p < 0.01$).
+Following \cite{Weng2011}, we compare the results of our method to an LDA baseline. We find the TMINMF model is significantly better than the LDA model based on mean reciprocal rank (MRR) of events identified by the two models (two-sided t-test, $p < 0.001$) as well as the proportion of true events identified by the two models (Binomial proportion test, $p < 0.01$).
 
 This short paper is organized as follows. In Section 2 we review the concept of an \emph{event} followed by a summary of related work in Section 3. In Sections 4 and 5 we introduce our model and the LDA baseline. Section 6 describes the evaluation methodology and test collection. Section 7 summarizes the results followed by conclusions and next steps in Section 8.
 
@@ -168,12 +168,12 @@ A variation of mean reciprocal rank (MRR) is used to capture event model quality
 \[
 MRR = \dfrac{1}{N} \sum_{i=1}^{N} \dfrac{1}{rank_i}
 \]
-Next, we calculate the simple proportion of unique Wikipedia URLs returned by the system that are found in the known events list.
+Next, we calculate the simple proportion of unique Wikipedia URLs returned by each system that are found in the known events list.
 \[
 p = \dfrac{\vert \text{ Unique URLs returned} \cap \text{Known events list} \vert}{\vert \text{Unique URLs returned} \vert}
 \]
 
-We compare MRR using a two-sided t-test and the $p$ using a two-sided binomial proportion test.
+We compare MRR using a two-sided t-test and the $p$ using a two-sided Binomial proportion test.
 
 \subsection{Test collection}
 News articles from the year 2004 in the New York Times Annotated Corpus \cite{Sandhaus2008} are used for evaluation. Only articles found in Section A (available via document metadata) are considered and summary articles are ignored. Stopwords are removed using the standard Indri list. The resulting collection consists of 25,689 documents.
